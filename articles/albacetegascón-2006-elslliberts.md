@@ -32,8 +32,8 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1400/12/27|Sança, àlias Samato, grega|Guillem Amergòs, †, mercader, c.B.|causes pies|Seu de Barcelona|St. Pere de les Puel·les||1[^10]|
 |1402/05/31|Marta|Bernat Maler, †, prevere rector de la Geltrú|Bernat Andreu, prevere Barcelona (marmessor)|Seu de Barcelona|||2[^11]|
 |1402/07/13|Margarida|Galceran de Dorrius|Martí Bonet, llibert (marmessor)|Seu de Barcelona|||3[^12]|
-|1402/10/03|Maria, muller d’Antoni de SantMartí, agricultor|Jaume de Pujol, †, prevere de Pedralbes|Franscisquina, ﬁlla seva|Seu de Barcelona|||4[^13]|
-|1406/03/22|Maria, vídua de BernatSala, traginer, c.B.|Simó Gordiola, †, barber, c.B.|Bartomeua (marmessora)|Seu de Barcelona|Sta. Maria del Pi||5[^14]|
+|1402/10/03|Maria, muller d’Antoni de Sant Martí, agricultor|Jaume de Pujol, †, prevere de Pedralbes|Franscisquina, ﬁlla seva|Seu de Barcelona|||4[^13]|
+|1406/03/22|Maria, vídua de Bernat Sala, traginer, c.B.|Simó Gordiola, †, barber, c.B.|Bartomeua (marmessora)|Seu de Barcelona|Sta. Maria del Pi||5[^14]|
 |1408/02/16|Cali, albanesa|Caterina, vidua de Pere sa Costa|Ramon Artà, prevere (marmessor)|Sta. Maria del Mar|||6[^15]|
 |1409/04/20|Margarida|Francesc Castanyer, †, canonge Seu de Barcelona.|causes pies|Seu de Barcelona||Sta. Eulàlia|7[^16]|
 |1410/05/13|Caterina|Pere Biure, †, mercader, c.B.|Jaume St. Serni, ﬁll seu.|Sta. Maria del Mar|Sta. Maria del Mar||8[^17]|
@@ -51,8 +51,8 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1426/03/07|Maria, †, grega||||||20[^29][encant]|
 |1427/03/17|Francesca, †|Constança, †, vídua de Francesc de Soquerrats, c.B.|||||21[^30][inventari]|
 |1427/03/22|Francesca, †|Constança, †, vídua Francesc de Soquerrats, c..B.|||||22[^31][encant]|
-|1428/03/10|Joan,armeni|Pere Calcinals, †, assahonador pells, c.B.|Jaume Busquets (marmessor)|Sta. Maria del Mar|Sta. Maria del Mar||23[^32]|
-|1428/03/29|Jordi, albanès, batanerde llana, c.B.,marit de Maria (marmessora)||Joan Andreu, ﬁll seu.|Monestir de St. Pere de les Puel·les|St. Pere de les Puel·les||24[^33]|
+|1428/03/10|Joan, armeni|Pere Calcinals, †, assahonador pells, c.B.|Jaume Busquets (marmessor)|Sta. Maria del Mar|Sta. Maria del Mar||23[^32]|
+|1428/03/29|Jordi, albanès, batanerde llana, c.B., marit de Maria (marmessora)||Joan Andreu, ﬁll seu.|Monestir de St. Pere de les Puel·les|St. Pere de les Puel·les||24[^33]|
 |1429/02/16|Martí Busquets, agricultor, c.B., vidu de Caterina|Jaume Busquets, mestredraps de senyals, c.B.|Eulàlia, Gonçal Garcia i Jaume Busquets (marmessors)|Sta. Maria del Mar|Sta. Maria del Mar||25[^34]|
 |1429/10/06|Andreu Prats, llaner, c.B., marit de Caterina|Guillem de Prats, mercader, c.B.|Caterina, muller seva|Monestir dels Framenors|Sta. Maria del Mar||26[^35]|
 |1429/11/20|Caterina, muller de Marc Canal, àlias Fangar, manobre, c.B.|Maria, vídua Bonanat Gil, notari del Consell de Cent de Barcelona|causes pies|Seu de Barcelona|||27[^36]|
@@ -62,7 +62,7 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1431/07/17|Antònia Sirventa, hab. B.|Bartomeu Sirvent,†, protonotari del rei Joan|causes pies|Sta. Maria del Pi|||31[^40]|
 |1432/03/10|Maria, costurera|Agustí, †.|||||32[^41][encant]|
 |1433/02/17|Marta|Violant, †, vidua Rigo de Cosimer, cavaller domiciliat a Barcelona|causes pies|Sta. Maria del Mar|||33[^42]|
-|1434/08/09|Margano Castelló, sard.|Bonanat Vilar, tamborer, c.B.|Bonanat Vilar, antic prop. (marmessor)|Sta. Maria del Mar|Sta. Maria del Mar||34[^43]|
+|1434/08/09|Margano Castelló, sard|Bonanat Vilar, tamborer, c.B.|Bonanat Vilar, antic prop. (marmessor)|Sta. Maria del Mar|Sta. Maria del Mar||34[^43]|
 |1434/08/10|Francesca, neòﬁta|Jaume Riera, †, causídic, c.B.|Bernat Capell, ﬁll seu|Seu de Barcelona||Sta. Caterina|35[^44]|
 |1434/08/10|Francesca, neòﬁta|Jaume Riera, †, causídic, c.B.|||||36[^45][memorial]|
 |1435/02/04|Margarida, búlgara, vídua de Joan Sant Martí, sabater, C.B|Elvira|Joan Briva i na Avinent, muller seva (marmessors)|Seu de Barcelona|Sta. Maria del Mar||37[^46]|
@@ -71,7 +71,7 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1435/11/15|Caterina, àlias Magdalena|Bernat Morer, †, prevere B.|Eulàlia|Seu de Barcelona o monestir dels framenors|Sta. Maria del Pi|St. Nicolau|40[^49]|
 |1436/06/08|Margarida, muller d’Antoni Gilabert Roura, agricultor, c.B.|Mateu Gener, †, mercader, c.B.|Antoni Gilabert, marit seu|Seu de Barcelona|||41[^50]|
 |1439/04/09|Margarida, muller d’Antoni Castellet, agricultor, c.B.|Paulí Samer, mercader, c.B.|Eulàlia, ﬁlla antic propietari|Monestir dels Framenors|Sta. Maria del Mar|Sta. Caterina|42[^51]|
-|1439/08/06|Bernat Garbí, traginer,c.B., marit d’Eulàlia|Pere Garbí, cirurgià, c.B.|Joan i Caterina, ﬁlls seus|Sta. Maria del Mar|Sta. Maria del Mar||43[^52]|
+|1439/08/06|Bernat Garbí, traginer, c.B., marit d’Eulàlia|Pere Garbí, cirurgià, c.B.|Joan i Caterina, ﬁlls seus|Sta. Maria del Mar|Sta. Maria del Mar||43[^52]|
 |1440/04/16|Caterina, habitant Barcelona|Joan Balcebre, notari, c.B.|Jaume Bonet, prevere, (marmessor)|Monestir de St. Pere de les Puel·les o Sta. Maria del Pi|St. Pere de les Puel·les o Sta. Maria del Pi||44[^53]|
 |1441/02/05|Antonia Sirvent, habitant Barcelona|Bartomeu Sirvent,†, protonotari rei Joan|causes pies|Seu de Barcelona|||45[^54][codicil]|
 |1441/03/20|Margarida|Lluís Amergòs, †, c.B.|causes pies|Sta. Maria del Pi|Sta. Maria del Pi||46[^55]|
@@ -94,7 +94,7 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1445/12/15|Caterina, búlgara, muller de Martí de Marimon, llib. Bernat de Marimon|Berenguer Esteve, †, mercader, c.B.|Agnès, muller de Pere de Montròs, i ﬁlla de Berenguer de Vall, †, llicenciat en lleis|Seu de Barcelona|Sta. Maria del Mar||63[^72]|
 |1446/07/28|Joana, revenedora|Joan Perers, †, mercader, c.B.|Isabel (marmessora)|Monestir dels Frares Predicadors|||64[^73]|
 |1448/05/07|Maria, vídua de Joan Pujol, mercader, c.B.|Felip Lluçà, †, c.B.|Francesc Lluçà.|Seu de Barcelona|Sta. Maria del Pi|Sta. Eulàlia|65[^74]|
-|1448/06/02|Narcís Hostalric, marit de Maria.|Bartomeu d’Hostalric, †, donzell domiciliat Barcelona|Fills seus||||66[^75]|
+|1448/06/02|Narcís Hostalric, marit de Maria|Bartomeu d’Hostalric, †, donzell domiciliat Barcelona|Fills seus||||66[^75]|
 |1449/06/06|Eulàlia, xarquesa, hab. B.|Robert Vilipandi, mercader ﬂorentí habitant Barcelona.|Francesc Robert, Caterina, Rafael i Elionor, ﬁlls seus|Monestir de St. Pere de les Puel·les|St. Pere de les Puel·les||67[^76]|
 |1449/07/04|Joan Antoni, negre, neòﬁt, brasser, c.B., de Munt de Barques, marit de Margarida, lliberta, negra, de Munt de Barques|Arnau Tauler, †, patró de naus, de Cotlliure|Margarida, muller seva.|Seu de Barcelona|St. Pere de les Puel·les||68[^77]|
 |1449/07/29|Maria|Galceran de Sentmenat, cavaller, domiciliat a Barcelona.|Caterina (marmessora).|Sta. Maria del Mar|||69[^78]|
@@ -107,7 +107,7 @@ Tot seguit presentem un quadre amb la relació dels testadors i testadores. Aix�
 |1450/11/18|Nicolau Pla, manobre, c.B.|Ramon de Pla, †, c.B.|causes pies|Monestir de Sant Pau del Camp|Sta. Maria del Mar|espasers|76[^85]|
 |1451/02/01|Maria, neòﬁta, búlgara|Lleonisi, mestre barber, c. Manresa|Martí Eres (marmessor)|Sta. Maria del Mar|Sta. Maria del Mar|pelleters|77[^86]|
 |1451/02/13|Margarida, negra, neòﬁta, de Munt de Barques, vídua de Joan Antoni, negre, neòﬁt, brasser, c.B., de Munt de Barques|Berenguer Alamany, †, notari, c.B.|Antoni de Salavert, negre, neòﬁt, brasser, c.B., de Munt de Barques, (marmessor)|Seu de Barcelona|Sta. Maria del Pi||78[^87]|
-|1451/06/09|Antoni Salavert, negre, neòﬁt, Brasser, c.B., de Munt de Barques, marit de Margarida.|Guillem Salavert, †, cavaller, doctor en lleis|Margarida, muller seva|Seu de Barcelona|Sta. Maria del Pi||79[^88]|
+|1451/06/09|Antoni Salavert, negre, neòﬁt, Brasser, c.B., de Munt de Barques, marit de Margarida|Guillem Salavert, †, cavaller, doctor en lleis|Margarida, muller seva|Seu de Barcelona|Sta. Maria del Pi||79[^88]|
 |1451/08/23|Caterina|Francesca, vídua Pere Vidal, mercader, c.B.|causes pies|Seu de Barcelona|St. Just|Sta. Verge i Sta. Eulàlia|80[^89]|
 |1452/04/04|Maria|Joan de Verdeya, †, mercader, c.B.|Pere de Serra Clara, (marmessor)|Monestir dels Framenors|Sta. Maria del Pi||81[^90]|
 |1452/12/16|Elena, muller de Francesc Argentona, brasser, c.B.|Gabriel Pla, †, mercader, c.B.|causes pies|Sta. Maria del Pi|Sta. Maria del Pi||82[^91]|
