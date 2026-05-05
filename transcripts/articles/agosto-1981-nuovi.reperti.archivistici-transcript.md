@@ -1,11 +1,11 @@
 ---
-author: Aldo Agosto
-title: Nuovi reperti archivistici genovesi dell'*Officium provisionis Romanie* sulla guerra di Cembalo (1434)
-xml-lang: it
+author: "Aldo Agosto"
+title: "Nuovi reperti archivistici genovesi dell'*Officium provisionis Romanie* sulla guerra di Cembalo (1434)"
+xml-lang: "it"
 citation: "Agosto, Aldo. “Nuovi reperti archivistici genovesi dell’ Officium Provisionis Romanie sulla guerra di Cembalo (1434).” *Byzantinobulgarica* 7 (1981): 104–8."
+item-type: "transcript"
+status: "complete"
 ---
-
-# Transcript
 
 Si può attualmente affermare che la conoscenza delle fonti archivistico-documentarie per la storia dei Genovesi nel Mar Nero e in genere di tutta l’area del Levante, sia pressoché completa, per i rinvenimenti euristici dovuti a ricerche sistematiche e capillari, compiute specialmente negli ultimi vent’anni.[^1] Tuttavia la ricchezza dei fondi dell’Archivio di Stato di Genova è tale, da rendere sempre possibile la scoperta di nuovi documenti, anche in giacenze inconsorte o scarsamente esplorate.
 
