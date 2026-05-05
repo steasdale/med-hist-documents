@@ -1,13 +1,13 @@
 ---
 title: Els lliberts a la Barcelona del segle XV
-author: Antoni Albacete i Gascón
+author: Antoni Albacete i Gascón"
 xml-lang: "ca"
 citation: "Albacete i Gascón, Antoni. “Els lliberts a la Barcelona del segle XV.” *Estudis històrics i documents dels arxius de protocols* 26 (2008): 147–90."
+item-type: "transcript"
+status: "complete"
 ---
 
-# Transcript
-
-## Abstract
+## Resum
 
 Els esclaus que aconseguiren la llibertat, i no retornaven a les seves terres d'origen, utilitzaren les mateixes estratègies d'integració que seguien les altres persones lliures. S’incorporaven en aquella societat, ja com a membres lliures, a partir de les esferes laborals, familiars i religioses. A través de diverses tipologies de la documentació notarial, analitzades en aquest treball, trobem els lliberts barcelonins del segle XV realitzant transaccions comercials; rebent i establint llegats testamentaris; casant-se, amb d'altres lliberts o amb lliures de natura; atorgant procures; delinquint; i, fins i tot, sobresortint socialment i rebent el reconeixement de la monarquia.
 
@@ -99,7 +99,7 @@ Les relacions entre esclaus alliberats i persones lliures de natura són constan
 
 El 13 de juny de 1441 Caterina de Montbui, que havia estat esclava del difunt cavaller Joan de Montbui, reconeix que rep dels marmessors del testament de Margarida, vídua del bosser Mateu Alemany, un llegat de 5 lliures i 10 sous.[^85]
 
-També podem veure antics esclaus que atorguen llegats en els seus testaments a lliures de natura, és el cas de la citada Maria, que havia estat esclava del difunt Jaume de Coll, mercader, a la qual ja hem vist atorgant un llegat a un familiar del seu antic propietari.[^86] En aquest cas veiem com se segueixen fent efectius llegats d’aquesta lliberta a càrrec dels seus marmessors durant el mes de gener de l’any 1440, en ambdós casos els llegats són *in auxilium maritandi* i van destinats a Bartomeua, filla del sabater Berenguer Treim, amb una quantitat de 40 sous;[^87] i Eulàlia, filla del peller Bernat Francesc, que rep 5 lliures.[^88] Bernat Francesc actuà de marmessor a la majoria dels llegats deixats per Maria.[^89]
+També podem veure antics esclaus que atorguen llegats en els seus testaments a lliures de natura, és el cas de la citada Maria, que havia estat esclava del difunt Jaume de Coll, mercader, a la qual ja hem vist atorgant un llegat a un familiar del seu antic propietari.[^86] En aquest cas veiem com se segueixen fent efectius llegats d’aquesta lliberta a càrrec dels seus marmessors durant el mes de gener de l’any 1440, en ambdós casos els llegats són *<span lang="la">in auxilium maritandi</span>* i van destinats a Bartomeua, filla del sabater Berenguer Treim, amb una quantitat de 40 sous;[^87] i Eulàlia, filla del peller Bernat Francesc, que rep 5 lliures.[^88] Bernat Francesc actuà de marmessor a la majoria dels llegats deixats per Maria.[^89]
 
 El ja citat Antoni Cruïlles, negre, forner d’ofici, que havia estat esclau de Brígida, muller de Galceran de Cruïlles,[^90] deixà com a hereus a parts iguals a dos lliures de natura: l’argenter Berenguer Bonet i el mercader Andreu Solsona. Però com que l’herència fou obligada a crèdits en els quals Berenguer Bonet hi tenia part, a aquest li fou més útil renunciar a la seva part del testament. És per això que en instrument públic fet el dia 27 d’octubre de 1441 davant del notari Bartomeu Costa i de testimonis renuncià a la seva part de l’esmentada herència. El mateix dia, Andreu Solsona promet a Berenguer Bonet que al cap de dos dies li pagarà la quantitat monetària que aquest deixà al difunt Antoni Cruïlles.[^91] Al cap de dos dies no, però sí al cap de tres trobem una àpoca signada per Berenguer Bonet on reconeix que Andreu Solsona, hereu universal del difunt Antoni Cruïlles, li ha pagat certa quantitat que no podem conèixer perquè l’instrument està incomplet tant en el manual com al seu llibre corresponent.[^92]
 
