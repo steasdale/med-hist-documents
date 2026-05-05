@@ -1,11 +1,11 @@
 ---
-author: Nicolai Andreescu
-title: Genovezi pe drumul moldovenesc la mijlocul secolului al XV-lea
-xml-lang: ro
+title: "Genovezi pe drumul moldovenesc la mijlocul secolului al XV-lea"
+author: "Nicolai Andreescu"
+xml-lang: "ro"
 citation: "Airaldi, Gabriella. “Etnie e strati sociali negli insediamenti medievali italiani del Mar Nero.” *Byzantinobulgarica* 7 (1981): 247–52."
+item-type: "transcript"
+status: "complete"
 ---
-
-# Transcript
 
 In anul 1897 [Nicolae Iorga](http://www.genoesemerchantnetworks.com/s/main/item/45695) semnala doua acte din [Arhivele din Genova](http://www.genoesemerchantnetworks.com/s/main/item/26209). al căror conținut îl rezuma in chipul următor: „Certe cu orășenii din [Lemberg](http://www.genoesemerchantnetworks.com/s/main/item/45687) se mai întâmpină și prin 1446, când trei Genovesi din [Pera](http://www.genoesemerchantnetworks.com/s/main/item/26154), [Iacob de Oliva](http://www.genoesemerchantnetworks.com/s/main/item/27630), [Angelo Lercari](http://www.genoesemerchantnetworks.com/s/main/item/23825) și [Neculai Spinola](http://www.genoesemerchantnetworks.com/s/main/item/25749), sunt închiși de ofițerii regelui in acest oraș, ca răzbunare pentru împlinirea la [Pera](http://www.genoesemerchantnetworks.com/s/main/item/26154) a unui Lemberghez, [Neculai Zindihac](http://www.genoesemerchantnetworks.com/s/main/item/45698), care avea datorii fată cu familia Spinola”. Între paranteze, [Iorga](http://www.genoesemerchantnetworks.com/s/main/item/45695) indica atât fondul in are se păstrau aceste acte, precum i datele lor: 8 februarie i 11 martie 1446.[^1] Ulterior, in 1902, [Iorga](http://www.genoesemerchantnetworks.com/s/main/item/45695) a semnalat încă odată actele cu pricina, acum corectând data celui dintâi - din 8 in 18 februarie - i prezentându-le in chip separat: „Le 18 février, le gouvernement génois renvois à une commission la demande de représailles présentée par [Jacques d'Oliva](http://www.genoesemerchantnetworks.com/s/main/item/27630) et [Nicolas Spinola](http://www.genoesemerchantnetworks.com/s/main/item/25749), bourgeois de [Péra](http://www.genoesemerchantnetworks.com/s/main/item/26154), arrêtés à [Lemberg](http://www.genoesemerchantnetworks.com/s/main/item/45687). - Le 11 mars, il prend la même résolution touchant les plaintes d'[Anges Lercari](http://www.genoesemerchantnetworks.com/s/main/item/23825): le roi de [Pologne](http://www.genoesemerchantnetworks.com/admin/item/45699) avait ordonné ces arrestations pour se venger de ce que les officiers de [Péra](http://www.genoesemerchantnetworks.com/s/main/item/26154) avaient fait dépouiller [Nicolas Zindihac](http://www.genoesemerchantnetworks.com/s/main/item/45698), de [Lemberg](http://www.genoesemerchantnetworks.com/s/main/item/45687), pour une dette envers la famille Spinola”.[^2]
 
@@ -59,7 +59,7 @@ Iată in încheiere încă un exemplu, menit să întărească această concluzi
 
 Ar mai fi de adăugat că acel [Bartolomeo Mosca](http://www.genoesemerchantnetworks.com/s/main/item/45791), însărcinat de [Lodisio Bavosi](http://www.genoesemerchantnetworks.com/s/main/item/45792) să meargă la Licostomo și „în pârțile [Valahiei](http://www.genoesemerchantnetworks.com/s/main/item/31561)”, este atestat în chip sigur ca prezent la [Licostomo](http://www.genoesemerchantnetworks.com/s/main/item/45795) cel puțin încă odată. Avem în vedere un act notarial, rogat la [Licostomo](http://www.genoesemerchantnetworks.com/s/main/item/45795) în 26 iunie 1398, prin care un anume Lazarinus de Levanto i se recunoaște dator cu suma de 4000 de aspri „de [Licostomo](http://www.genoesemerchantnetworks.com/s/main/item/45795)”.[^33] El frecventa deci în mod regulat ruta către gurile [Dunării](http://www.genoesemerchantnetworks.com/s/main/item/45793), cunoștea zona și posibilitățile pe care le oferea pentru comerț.
 
-## ANEXA
+# Anexa
 
 <span lang="la">[Iacobi de Oliva](http://www.genoesemerchantnetworks.com/s/main/item/27630) et [Nicolai Spinule](http://www.genoesemerchantnetworks.com/s/main/item/25749).</span>
 
@@ -105,7 +105,7 @@ ASG, <span lang="it">Archivio segreto</span>, *<span lang="la">Diversorum Filze<
 
 [^17]: Despre această instituție specific genoveza, vezi studiul fundamental al lui Edoardo Grendi. *<span lang="it">Profilo storico degli alberghi genovesi</span>*, in „<span lang="fr">Mélanges de l'École française de Rome”, Moyen-Age - Temps modernes</span>", t. 87, 1975, I, p. 242-301 (vezi în special p. 244).
 
-[^18]: [Roccatagliata](http://www.genoesemerchantnetworks.com/s/main/item/45778), *op.cit*, I, nr. 38, p. 115-119.
+[^18]: [Roccatagliata](http://www.genoesemerchantnetworks.com/s/main/item/45778), *op.cit.*, I, nr. 38, p. 115-119.
 
 [^19]: *Ibidem* nr. 32, p. 103-105.
 

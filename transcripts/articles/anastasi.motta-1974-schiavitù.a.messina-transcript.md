@@ -3,11 +3,9 @@ title: La schiavitù a Messina nel primo Cinquecento
 author: Giovanna Anastasi Motta
 xml-lang: it
 citation: "Giovanna Anastasi Motta, “La schiavitù a Messina nel primo Cinquecento,” *Archivio storico per la Sicilia orientale* 70, no. 2–3 (1974): 305–42."
-status: md+lang
-version: 1.0
+item-type: "transcript"
+status: "complete"
 ---
-
-# Transcript
 
 Sono stati di recente riproposti alcuni problemi strettamente connessi con il fenomeno generale socio-economico della schiavitù[^1] Chi, in precedenza, si era con la dovuta ampiezza, occupato del problema, aveva giustamente circoscritto l’indagine entro precisi limiti territoriali;[^2] dico giustamente in quanto ho la ferma convinzione che sulla schiavitù e sul modo di vivere degli schiavi si debba ancora indagare senza procedere a generalizzazioni, dal momento che, se la schiavitù sottintende il fenomeno della utilizzazione della mano d’opera, è naturale che essa venga a configurarsi in modo differente a seconda della sua collocazione geografica. Sarà dato senza dubbio identificare delle note comuni inerenti al carattere stesso di schiavitù, ma in pratica vi saranno diversità dovute all’ambiente.
 
@@ -15,7 +13,7 @@ Non ritengo dunque che uno studio effettuato esclusivamente su campioni relativi
 
 Nella città di Messina, sulla quale ho fermato la mia attenzione, infatti, la schiavitù presenta caratteri nettamente differenti, ad esempio, da quella trapanese; credo dunque che sia valido esporre il risultato di alcune ricerche tra gli atti notarili conservati presso l’Archivio di Stato di Messina. Preliminarmente, comunque, mi sembra opportuno richiamare in breve alcune nozioni di carattere generale.
 
-## Condizione giuridica dello schiavo
+# Condizione giuridica dello schiavo
 
 Uno studio, sia pure limitato del fenomeno della schiavitù, impone di definire quale fosse la condizione giuridica dello schiavo nel periodo del quale ci occupiamo.
 
@@ -41,7 +39,7 @@ In Sicilia, in modo particolare, quando ci troviamo di fronte alla schiavitù ta
 
 Ecco perché, pur riconoscendo la necessità di riandare con la mente al concetto romano di schiavitù, ritengo ancora necessarie indagini locali.
 
-## La schiavitù a Messina, sue caratteristiche
+# La schiavitù a Messina, sue caratteristiche
 
 Sulla schiavitù a Messina non esistono lavori specifici mentre il problema presenta, in questa città, caratteri peculiari che consentono di dare una soluzione a qualche interrogativo posto in sede generale.
 
@@ -89,7 +87,7 @@ Tutto ciò merita un commento; Luchetto de Carro è purtroppo un sconosciuto, ma
 
 Il documento è eccezionale, in quanto il caso dell’istruzione impartita ad uno schiavo non è frequente, specialmente nell’ipotesi di istruzione a livello medio come è quello della corrispondenza commerciale e della tenuta dei libri di conto. Questa notizia tuttavia potrebbe significare che, in alcune ipotesi, il padrone potesse ritenere utile, certo non solo nell’esclusivo interesse dello schiavo, corredarlo di una preparazione specifica, con l’insegnamento di un’arte o di un mestiere. È evidente, inoltre, che tutto ciò comportava una conseguenza di altra natura: quando infatti lo schiavo tornava in patria trasferiva al paese d’origine quanto aveva appreso e presumibilmente poteva egli stesso dare ad altri quegli insegnamenti che aveva ricevuto. Correlativamente però poteva verificarsi un caso del tutto diverso e cioè che lo schiavo, anche dopo la manomissione, preferisse rimanere in Occidente proprio perché quanto aveva imparato lo estraniava dai suoi conterranei, o che egli stesso, venuto a contatto con una realtà diversa da quella in cui era nato, non intendesse più tornare indietro.
 
-## Prezzi degli schiavi
+# Prezzi degli schiavi
 
 Come è evidente, il prezzo che lo schiavo viene ad avere sul mercato, non solo costituisce un elemento di notevole rilevanza, ma si configura quale punto focale del discorso, che ci permetterà di ipotizzare per quali motivi nel tempo esso sarà determinante, concorrendo alla scomparsa dell’istituto dello schiavitù. Finché il servo, infatti, affiancandosi al lavoratore libero in alcuni settori di lavoro da questi trascurati, consentirà al padrone di recuperare almeno le spese necessarie al suo mantenimento, sussisteranno i presupposti perché continui ad essere schiavo. Ma quando, a breve distanza di tempo, il padrone non riuscirà più ad ammortizzare la somma risultante dal capitale iniziale occorso per acquistare lo schiavo e dalle spese necessarie al suo sostentamento in rapporto alla sua produttività, ecco che l’istituto stesso della schiavitù si configurerà come antieconomico.
 
@@ -111,39 +109,39 @@ A conclusione di quanto detto, mi pare che siano troppe e troppo diverse tra lor
 
 Per quel che possono valere, e senza la pretesa di fornire materiale sufficiente per una elaborazione statistica, ho riunito in una tabella i dati offerti dai notai messinesi (Tabella 1).
 
-### Tabella 1
+## Tabella 1
 
 |venditore|compratore|razza|nome|età|battezzati|prezzo (oc)|fonte (notaio)|
 |---------|----------|-----|----|---|----------|-----------|--------------------|
 |Stefano de Fornariis, genovese||moro||25|si|12|Carissimo vol. 16, f. 78, 1-10-1513|
-|||negro partium occ.||24||20,10|Carissimo, vol. 16, f. 124, 24-10-1513|
+|||negro partium occidentis||24||20,10|Carissimo, vol. 16, f. 124, 24-10-1513|
 |Francesco Palmeri di Pisa|Giulio Volanti di Siena|negro|Francesco|16-18|si|16,14|Carissimo, vol. 13, f. 235, 28-12-1513|
 |Giannello Mirulla|Gio Matteo Campagna|||25-30||7,24|Castelli, vol. 17, 9-11-1515|
 |||mora bianca||18||25|Castelli, vol. 17, 5-12-1515|
-|Bernardo Lupo, genovese|Andreotta de Alibertis|de partibus occ.|Giovanni|12|si|12,17|Castelli, vol. 17, 18-2-1517|
+|Bernardo Lupo, genovese|Andreotta de Alibertis|de partibus occidentis|Giovanni|12|si|12,17|Castelli, vol. 17, 18-2-1517|
 |Gerolamo Mirulla||moro||24|si|13|Castelli, vol. 17, 5-3-1517|
 |Antonio Ricca|Pietro Ansalone|negro||30||14|Castelli, vol. 17, 23-4-1517|
 |Pietro de Benedictis, notaio||negro||25|si|13|Caste1li, vol. 17, 2-10-1517|
 |||||12||13|Castelli, vol. 17, 12-11-1517|
 |Gio di Brasco, messinese|Giovanni Deoricus||Caterina|22|si|15|Castelli, vol. 17, 3-3-1518|
 ||||Caterina|30|si|10|Castelli, vol. 17, 30-4-1519|
-|Amico de S. Angelo|Francesco de Pavia, genovese|monti barca||22||12,22,10|Castelli, vol. 18, 18-8-1519|
+|Amico de Sant'Angelo|Francesco de Pavia, genovese|monti barca||22||12,22,10|Castelli, vol. 18, 18-8-1519|
 |Giannotto Frias||monti barca|||||Castelli, vol. 18, 15-10-1519|
 |del Carretto|del Carretto|negro||||12|Castelli, vol. 18, 7-11-1519|
-|Nicolò Pitrica, messinese|Bartolo Piluso, genovese|de partibus occ.||17-19|si|16|Castelli, vol. 18, 14-11-1519|
+|Nicolò Pitrica, messinese|Bartolo Piluso, genovese|de partibus occidentis||17-19|si|16|Castelli, vol. 18, 14-11-1519|
 ||||Lucia|40|si|10|Castelli, vol. 18, 10-12-1519|
 |||||18||15|Carratino, vol. 20, 13-1-1520|
 |||bianco di Sfax||20-22||13|Carratino, vol. 20, 30-4-1520|
 |||negro||20||15|Carratino, f. 298, 1-5-1520|
 |ua erede di Lupes Chentozes|un barbiere|negro monti Barca||14|si|10,15|Carratino, vol. 20, 1-6-1520|
 |Perotto Marchetto|Vito di Randazzo|turcos||30||19|Castelli, vol. 19, 1-12-1520|
-|Nicolò Andera di Palermo|Antonio Muleti|de partibus occ.||20||17|Castelli, val. 19, 3-12-1520|
+|Nicolò Andera di Palermo|Antonio Muleti|de partibus occidentis||20||17|Castelli, val. 19, 3-12-1520|
 |Braudano Nicolò, barone||||||11|Castelli, vol. 19, 4-2-1521|
 |Michele Campiglio, mercante||||14|no|16,18|Prosimo, vol. 22, 3-9-1521|
 |Garsia di Catania, biscaglino|un maiorchino|moro de Azambor||13|no|8,20|Prosimo, vol. 22, 4-9-1521|
 |Arnaudus de Marcado, Diegus|Tomaso Bonfiglio|arabo di ponente||22|no|11.8|Prosimo, vol. 22, 12-10-1321|
 |Michele Campiglio, aragonese|Federico Signorino|mora di ponente||30|no|12,15|Prosimo, vol. 22, 30-10-1521|
-|Giorgio Albanese, abit. di Messina|Antonio Lanza di Longi|negra di ponente|Caterina|12|si|12,17|Prosimo, vol. 22, 8-11-1521|
+|Giorgio Albanese, abitante di Messina|Antonio Lanza di Longi|negra di ponente|Caterina|12|si|12,17|Prosimo, vol. 22, 8-11-1521|
 |Perotto Marchett, catalano|Pietro de Benedictis, not.|mora||18||13|Prosimo, vol. 22, 8-10-1522|
 |Filippo Cafaro, notaio|Antonio Montalto, avv. fisc.|bianca||||15,13|Prosimo, vol. 22, 14-12-1522|
 |||mora|Leonara|12|si|7,24|Prosimo, vol. 22, 13-2-1523|
@@ -160,17 +158,17 @@ Per quel che possono valere, e senza la pretesa di fornire materiale sufficiente
 ||||Caterina||si|14|Prosimo, vol. 23, 14-4-1526|
 |Filippo Cafaro||negro monti Barca||30 ca.||12.17|Prosimo, vol. 23, 14-6-1526|
 |Filippo Cafaro||negra con figlia|Agnese||si|18|Prosimo, vol. 23, 15-6-1526|
-|Gio Scarso di Siracusa|Gio Catalano, abit. Ruris|negro|Nicolò|25|si|15,24|Prosimo, vol. 23, 18-7-1526|
-|Luca Viale de Diano, genovese|Gio Matteo Rizo, genovese|negro||25|no|16|Prosimo, vol. 24, 28-9-1526|
+|Giovanni Scarso di Siracusa|Giovanni Catalano, abit. Ruris|negro|Nicolò|25|si|15,24|Prosimo, vol. 23, 18-7-1526|
+|Luca Viale de Diano, genovese|Giovanni Matteo Rizo, genovese|negro||25|no|16|Prosimo, vol. 24, 28-9-1526|
 |Margaro Xista, vedova|Pietro Stagno|negra|Agnese||si|16|Prosimo, vol. 24, 15-11-1526|
-|Antonino lu Indichi di Patti|Gio Matteo Alibrando|moro arabo|Giovanni|30 ca.|si|10.12|Prosimo, vol. 24, 28-11-1526|
-|Gio de Perio, raguseo|Ant. La Rocca, bar di Racuia|due negri salvat.||20|no|23, 12|Prosimo, vol. 24, 10-1-1527|
+|Antonino lu Indichi di Patti|Giovanni Matteo Alibrando|moro arabo|Giovanni|30 ca.|si|10.12|Prosimo, vol. 24, 28-11-1526|
+|Giovanni de Perio, raguseo|Antonio La Rocca, bar di Racuia|due negri salvat.||20|no|23, 12|Prosimo, vol. 24, 10-1-1527|
 |Leonardo Testa, medico|Salvatore Bruno|mora||30 ca.||17|Prosimo, vol. 24, 30-4-1527|
 |Stefano de Marino|Gioannello Mirulla|negro|Francesco|12|si|16,1|Prosimo, vol. 24, 10-6-1527|
 |Francesco de Curadis, messinese|Nicoletta de Benedictis ab.|negra|Margherita|19|si|16|Prosimo, vol. 25, 3-9-1527|
 |Tommaso Corvitto|Alonso Mignes|negra|Agostina|25|si|6|Prosimo, vol. 25, 17-12-1527|
 |Angelo de Judice|Giacomo Suaglia|negra|Caterina|30|si|12,4|Prosimo, vol. 25, 22-12-1527|
-|Cristoforo Triviso|Ant. Marturano di Trani|moro|Maometto|30|no|10|Prosimo, vol. 25, 8-5-1528|
+|Cristoforo Triviso|Antonio Marturano di Trani|moro|Maometto|30|no|10|Prosimo, vol. 25, 8-5-1528|
 
 Un’altra considerazione scaturisce dal fatto che nei contratti di vendita ci troviamo quasi sempre in presenza di schiavi battezzati: mi sembra evidente che si tratti di un fatto puramente sacramentale, favorito dalla chiesa e che doveva costituire per il servo un grande vantaggio in quanto in tal modo esso veniva ad essere associato, almeno per alcuni aspetti, alla comunità dei liberi; si ha quasi la sensazione che in tal modo si sia voluto evitare il ripetersi degli inconvenienti verificatisi con gli ebrei, la costituzione cioè di una comunità non cristiana, di un’*universitas* contrapposta all’*<span lang="la">universitas civium</span>*.
 
@@ -180,7 +178,7 @@ Tale mancanza di curiosità nei padroni degli schiavi in effetti stupisce, sopra
 
 D’altra parte neanche degli stessi schiavi abbiamo descrizioni fisiche che vadano oltre il colore della pelle, bianca, nera, olivastra, ma per 1o più non si fa riferimento ad altri elementi descrittivi; questo perché, anche se il notaio riteneva necessario dare l’indicazione che oggetto del contratto era lo schiavo, pure è evidente che, in relazione alle sue caratteristiche, non considerava opportuna alcuna descrizione, rientrando nella norma. Solo eccezionalmente, invece, lo stesso notaio ci offre una descrizione più particolareggiata, solo perché, evidentemente, siamo in presenza di ipotesi che presentavano qualche difformità dai casi abituali: Nicolò Sansepolcro vende a Palermo una serva olivastra a Ginevra Lo Poyo ed il notaio annota *<span lang="la">serva olivastra mercata vel signata in lo barbarocto</span>*.[^50] È chiaro che qui il notaio era rimasto colpito dalle cicatrici che la schiava presentava sul volto, certamente segni ornamentali
 
-## Casanatici, erranti e fuggitivi
+# Casanatici, erranti e fuggitivi
 
 Non sembra che a Messina fossero numerosi gli schiavi casanatici poiché ne ho trovato due soli casi: donazione di un servo casanaticio di venti anni[^51] e maritaggio di una serva casanaticia.[^52] 
 
@@ -194,16 +192,16 @@ In sede di teoria generale si è potuto discutere sul “furto di se stesso” c
 
 Lo schiavo che avesse abbandonato il padrone, pertanto, diveniva probabilmente oggetto di un rapporto di forza tra l’antico padrone che tendeva a recuperarlo e il nuovo ospite che sostanzialmente ne aveva acquisito i servizi senza comprarlo. La *<span lang="la">actio de servo corrupto</span>* e la marchiatura dello schiavo, se fuggitivo recidivo, erano due mezzi di coercizione validi soltanto in caso di ritrovamento del servo; nella pratica, tra una popolazione sempre mal disposta contro l’autorità costituita. la fuga non poteva essere né prevenuta né repressa, anche se la legge puniva appunto non solo il servo, ma anche chi lo avesse ricettato o spinto alla fuga.[^55] Un fatto è certo, che cioè gli schiavi fuggitivi o erranti non furono sentiti come problema immanente in quella società; essi ledevano il diritto di proprietà del padrone, ma nella realtà pratica questo non costituì un problema sociale, sia per lo scarso numero, sia per la immediata mimetizzazione fra i liberti di infima condizione economica (Cfr. Prospetto 1).
 
-### Prospetto 1:
+## Prospetto 1:
 
-#### Casanatici
+### Casanatici
 
 1. Donazione di sei onze in contanti e di 12 in roba, fatta da Girolamo Gotto a Minica di età nubile, nata in casa del padre (Notaio Castelli, vol. 22, 22-2-1517).
 
 2. Donazione ad un servo casanaticio di 20 anni (Notaio Carratino, vol. 20, f. 32).
 
 
-#### Erranti e fuggitivi
+### Erranti e fuggitivi
 
 1. Schiavo errante catturato a Militello, proprietario un muratore di Messina (Notaio Prosimo, vol. 22, f. 64. 20-1-1523).
 
@@ -216,7 +214,7 @@ Lo schiavo che avesse abbandonato il padrone, pertanto, diveniva probabilmente o
 5. Fuga da Crotone di cinque schiavi da cinque padroni diversi, tra cui uno di Perotto de Lala (Notaio Castelli, vol. 19, 21-4-1521).
 
 
-## Commercio degli schiavi
+# Commercio degli schiavi
 
 Per quanto Messina fosse un mercato abbastanza attivo, non si può tuttavia affermare che vi agissero mercanti di schiavi specializzati in tale settore; per tutta la Sicilia abbiamo notizia di un solo caso del genere, segnalato dal Trasselli.[^56]
 
@@ -230,21 +228,21 @@ In questi tre casi i due Ragusei speculavano sulla differenza tra il prezzo dell
 
 L’intervento dei Ragusei non va trascurato in quanto può significare nella storia della schiavitù la creazione di una possibilità di mediazione tra le due parti, a] di sopra delle posizioni di intransigenza dei governi e delle confessioni religiose (Cfr. Prospetto 2).
 
-### Prospetto 2
+## Prospetto 2
 
-#### Affari di schiavi
+### Affari di schiavi
 
 1. Giannotto Squelles ha dato in commenda a Filippo Aloi e Gismondo Filippone sulla loro nave 11 servi dei Monti Barca per venderli a Siracusa (Notaio Carissimo, vol. 16, f. 65, 24-9-1513).
 2. Malcon Fonti riceve da Betto Mollica in commenda cinque mori che sulla nave di Casalaina o di Gerubino porterà *<span lang="la">ad partes Barbarorum</span>* per 50 onze che gli costarono per acquisto, spese e assicurazione; il di più sarà diviso a metà tra i due; se gli schiavi ritorneranno non riscattati, Malcon Fonti li venderà a Messina all’incanto (Not. Carissimo, vol. 16, f. 238, 20-12-1513).
 3. Il fu magnifico Pietro Spatafora aveva lasciato al fu Francesco Faraone due servi e una serva infedeli per mandarli a Napoli a riscattare secondo il testamento dello Spatafora; mentre si trovavano nelle carceri di Napoli, i due servi morirono: ora Giovan Pietro di Marchisio, genero dello Spatafora riceve onze sette in contanti e ne fa buone 2.15 per le spese nelle carceri. Dette onze sette saranno conteggiate nel saldo del riscatto (Notaio Prosimo. vol. 23. f. 151, 29-8-1525).
 
-## Liberti
+# Liberti
 
 In un recente articolo sono state poste alcune premesse per una avvincente ipotesi di lavoro sulla capacità giuridica dei liberti.[^59] In effetti poco si conosce sull’argomento che invece mi sembra determinante al fine di vedere, una volta conclusa la vita dello schiavo in quanto tale, il suo inserimento come uomo libero nel contesto economico e sociale; tra i documenti esaminati emerge un nutrito gruppo di manomissioni e, cosa molto importante, un certo numero di liberti che si garantiscono l’un l’altro per ottenere l’affrancazione di altri schiavi, oltre a qualche interessante caso di autoriscatto. Cfr. Prospetto 3.
 
-### Prospetto 3
+## Prospetto 3
 
-#### Autoriscatto
+### Autoriscatto
 
 1. Un servo moro non battezzato pagherà al padrone onze ventidue a tarì 13 il mese, quindi sarà libero (Notaio Prosimo. vol. 23, f. 60, 16-2-1525). 
 2. Tommaso, servo negro, prima di Francesco Lupo ed ora di Aloisio Vincent, si obbliga a pagare a Giacomo Parmerio, genovese, 5 ducati d’oro a tarì 6,10 il mese per altrettanto che il servo doveva a Domenico Moneglia, debitore del Parmerio; fideiussori Giovanni Michele de Campiglio e Francesco Pollegrano, mori. (Notaio Prosimo, vol. 25, f. 125, 10-2-1528)
@@ -259,9 +257,9 @@ In realtà, anche su questo punto, le fonti non sono sempre esplicite e ci conse
 
 Generalmente gli schiavi liberati continuano ad avere rapporti col padrone, tuttavia non sempre è facile stabilire in modo preciso i termini di questo loro rapporto, se cioè si tratti ancora di un vero e proprio vincolo di subordinazione o se il liberto rimanga nella sfera del padrone per motivi di convenienza o forse anche affettivi. Certo, almeno nei primi tempi immediatamente successivi alla sua affrancazione, il liberto rimane vicino al padrone e, qualora l’allontanamento avvenga, questo si determina o alla morte del padrone stesso o, per i figli del liberto, alla morte di questi (Cfr. Prospetto 4).
 
-### Prospetto 4
+## Prospetto 4
 
-#### Manomissioni condizionate
+### Manomissioni condizionate
 
 1. Il magnifico Giacomo di Giovanni promette la libertà al suo servo moro, se entro quattro anni. questi gli pagherà oc. 12,15 (Notaio Carissimo, vol. 16, f. 22. 12-9-1513).
 2. Il magnifico Giovan Giacomo di Gregorio promette la libertà ad Alì, *<span lang="la">moro seu arabus</span>*, se gli pagherà oc. 21,6 in quattro anni in rate mensili uguali; lo manomette *<span lang="la">nunc pro tunc</span>*; sono fideiussori per la fuga Paolo Staiti, liberto, e Casmo, moro di Tripoli, liberto di Giovanni Picolomini (Not. Carissimo, vol. 16, fol. 173, 14-11-1513).
@@ -349,9 +347,9 @@ Solo in pochi casi non si coglie un precedente rapporto tra la liberta e il nuov
 
 Il problema di fondo in realtà resta sempre quello del prezzo della mano d’opera e in particolare si verifica che, quando lo schiavo è ormai divenuto troppo costoso, il padrone tende all’accaparramento del lavoro del liberto, affrancato solo in teoria, ma di fatto obbligato ad accettare un rapporto di lavoro non molto dissimile da quello precedente di schiavitù (Cfr. Prospetto 5).
 
-### Prospetto 5
+## Prospetto 5
 
-#### Liberti
+### Liberti
 
 1. Caterina, *<span lang="la">liberta</span>* di Francesca Rizu, si obbliga *servare indenni* Giò Firreri, liberto negro, i suoi beni ed eredi, per la fideiussione di onze 13½ per il prezzo della di lei manomissione (Notaio Carissimo, vol. 16, f. 324, 13-2-1514).
 2. Nerio Cutugno abitante Fiumara Nunciata, compare in Curia e dice che la manomissione di un servo fatta da Berto de Pagano è nulla in quanto il servo è suo per precedente donazione; il liberto dice invece che la manomissione è valida perché Berto ha avuto ducati 36 d’oro e onze 15; Nerio, consigliato dai giurisperiti, rinuncia, con. ferma la manomissione ed il liberto gli darà onze sei con fideiussione (Notaio Carissimo, vol. 16, f. 341, 22-2-1514).
@@ -373,7 +371,7 @@ Il problema di fondo in realtà resta sempre quello del prezzo della mano d’op
 18. Sichilia, *<span lang="la">liberta</span>* de Romano, si obbliga a servire Tomaso Crapi, filatore di seta, per due anni, contro vitto e cinque ducati (Notaio Prosimo, vol. 25, f. 213, 18-5-1528).
 19. Marina Scavuna, liberta, si obbliga a servire Placido del Castello e Smeralda sua moglie per sei anni; avrà in cambio vitto, alloggio, vestiario e alla fine di questo periodo un letto, un materasso di lana, un sacco da letto con una *<span lang="la">lictera</span>*, due lenzuoli, una coperta, *<span lang="la">raubas</span>* personali e un’onza in denaro (Notaio Prosimo, vol. 25, f. 216, 23-5-1528).
 
-## Casi particolari
+# Casi particolari
 
 La precedente rassegna ha lasciato fuori dei casi che in certo modo costituiscono delle eccezioni rispetto a quelli esaminati; essi, pur avendo il valore di semplici aneddoti, meritano qualche considerazione, permettendoci di accertare alcuni episodi particolari sulla vita degli schiavi.
 

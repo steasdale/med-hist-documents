@@ -1,13 +1,11 @@
 ---
-author: Benjamin Arbel
-title: Slave trade and slave labor in Frankish Cyprus (1191–1571)
+author: "Benjamin Arbel"
+title: "Slave trade and slave labor in Frankish Cyprus (1191–1571)"
 xml-lang: "en"
 citation: "Arbel, Benjamin. “Slave Trade and Slave Labor in Frankish Cyprus (1191–1571).” *Studies in Medieval and Renaissance History* 24 (1993): 149–90."
-remarks:
-  - The tablular appendix has not yet been transcribed
+item-type: "transcript"
+status: "complete"
 ---
-
-# Transcript
 
 Fernand Braudel has described the Mediterranean islands as living “on the paths of general history.” “The events of history,” he wrote, “often lead to the islands” or rather “make use of them.”[^1] The same historian also defined slavery as “a structural feature of Mediterranean society.”[^2] Indeed, the study of Mediterranean slavery during the Middle Ages and the Renaissance also leads us to the islands. The history of slavery in medieval and early modern Sicily, Crete, Rhodes, Chios, and Sardinia, which has already been studied to some extent, reveals that slaves were part of the islands’ social systems, and that the islands often functioned as international slave emporia for redistribution to other centers of the inner sea.[^3] Cyprus, no exception to this general trend, has, until now, been neglected by scholars investigating Mediterranean slavery.
 
@@ -45,11 +43,11 @@ Manumission was often simply an act of redemption, in return for a ransom, which
 
 Considering the relatively higher prices obtained for ransomed slaves, it might have occurred that persons were actually captured or acquired as slaves with the intention of offering them later for redemption.[^51]
 
-\*   *   *   *
+\*     *     *     *
 
 It is probably not a matter of chance that no documents from the late fourteenth and the fifteenth centuries pertaining to the Famagusta slave market have been hitherto discovered. In 1373 the Genoese conquered Famagusta and held it under their sway until King James II reconquered it in 1464. During that period, Famagusta declined and lost its prominent role in Mediterranean maritime trade.[^52] Although it is possible to find occasional reference to the purchase of slaves in Cyprus in later years, by the end of the fourteenth century the island must also have ceased to function as an emporium for the Mediterranean slave trade. But this diminution in the island’s involvement in the Mediterranean slave trade may also have been connected to long-term transformations in this field. In Crete, where no such political changes took place, the slave trade seems to have Benjamin Arbel 159 declined a few decades later.[^53] In fact, the Turkish conquest of Constantinople, the subsequent conquest of Genoese and Venetian colonies in the northern Black Sea, and a growing resentment among the Latins of the enslavement of Greeks seem to have drastically reduced the slave trade carried out by Westerners in the eastern Mediterranean.[^54]
 
-\*   *   *   *
+\*     *     *     *
 
 Let us now examine the place of slavery in Cypriot society itself. From the first half of the thirteenth century, we have only legal texts on this subject. The assises of the Cour des Bourgeois, which are believed to have been composed at Acre between 1240 and 1244,[^55] include chapters on various aspects of slavery: on Muslim slaves who converted to Christianity (chapter XVI); on the ethics of slave trade (chapter XXXIV, chapter XXXV); on the inheritance rights of former owners of manumitted slaves (chapters CCIII-CCIV); on Muslims who sell themselves into slavery (chapter CCIX); on the holding of stolen slaves (chapter CCX); on the responsibility of a freedman for acts performed before his manumission (chapter CCXI); on slaves beating Christians (chapter CCXII); on slaves escaping to lands of the infidel and returning to Christian lands (chapter CCLV), et cetera.[^56] Yet, though these assises have been preserved thanks to their later use in Cyprus, they basically reflect a legal situation in the Latin Kingdom of Jerusalem. Their use for the social history of the insular kingdom is therefore problematic. There is also a problem of terminology: whereas there is no doubt that assises referring to *sclavi* deal with slaves, others, mentioning *<span lang="la">servi</span>* present some ambiguities.[^57] The only thirteenth-century legal text regarding slaves which is clearly Cypriot in origin is a royal proclamation from 1298, prohibiting commercial transactions with slaves.[^58]
 
@@ -69,7 +67,7 @@ The use of Christian slaves in general, and of Greek slaves in particular, was w
 
 It is impossible, at this stage, to reach even an approximate quantitative evaluation of slaves in late medieval Cyprus. In comparison to other social groups, slaves were never very numerous in Cyprus, even during the heyday of slavery during the fourteenth and early fifteenth century. It is therefore rather doubtful whether Cyprus could be defined as “a large-scale slave society,” as suggested by one historian.[^86] In other Mediterranean and Atlantic countries where slaves are considered to have played a more important role during the same period, their demographic weight seldom reached the level of 10% of the total population. At Genoa, in 1458, the slave population (preponderantly female) has been evaluated by Gioffre at between 4 and 4.12%.[^87] At Palermo, in 1480, they have been evaluated by Verlinden at about 10%.[^88] In mid sixteenth-century Portugal—2.5 to 3% (in Lisbon about 10%),[^89] and on the island of Madeira, the first country where agricultural slave labor was extensively employed in the modern West, their number reached a maximum of 10% at the beginning of the sixteenth century.[^90] Only in exceptional cases do we encounter higher proportions.[^91] In “slave societies,” such as ancient Rome or the American colonies, the relative demographic weight of slaves has been evaluated at around 30%.[^92] The somewhat sparse data on slaves quoted above from Cypriot documents should be considered against the background of these evaluations.
 
-\*    *    *    *
+\*      *      *      *
 
 The last years of Lusignan rule and the subsequent Venetian period (1473-1571) are marked by a decline of slavery. However, although slaves are mentioned only rarely in the great mass of documentary material which has survived from that period, the occasional reference reveals the permanence of this institution on a smaller scale. Thus, in 1515, when a small village in the district of Famagusta was about to be leased, it was stated that out of fifty-four slaves which had previously been living there, there remained only twenty-nine, “mostly Muslims and children.”[^93] In 1517, the village of Mnasi is also said to have slaves.[^94] And during the war between Venice and the Ottomans in the late 1530s, slaves, probably Muslims, escaped from the island to Syria.[^95]
 
@@ -85,11 +83,11 @@ Changes in the social and cultural positions of the Greeks in Cyprus, as well as
 
 Finally, the history of Cypriot slavery allows us to observe the durability of this phenomenon. From Antiquity until modern times, in various forms and degrees, it was always present in the Mediterranean world, and probably also in Cyprus, an insular microcosmos of Mediterranean slavery. It is most unlikely that slavery had been absent from the island before the Frankish takeover of 1191, and it certainly did not disappear from the island after the Turkish conquest of 1571. Indeed, During the long Ottoman rule it continued to be, to some degree, part of the Cypriot social system right through the second half of the nineteenth century.[^ 104]
 
-## Appendix
+# Appendix
 
 Acts concerning slaves in the Famagustan notarial documents of Lamberto di Sambuceto (1296-1307) and Nicola di Boateriis (1360-1362). The slaves' age is generally indicated with a certain degree of approximation.
 
-### TABLE I: Slaves mentioned in Lamberto di Sambuceto's notarial acts written at Famagusta (28 October 1296-2 April 1307)
+## TABLE I: Slaves mentioned in Lamberto di Sambuceto's notarial acts written at Famagusta (28 October 1296-2 April 1307)
 
 | reference | date       | type                     | sex    | age  | name                     | origin                | ethnicity  | colour | owner/seller                                                 | buyer                                                        | price | currency              |
 | --------- | ---------- | ------------------------ | ------ | ---- | ------------------------ | --------------------- | ---------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | --------------------- |
@@ -206,7 +204,7 @@ Acts concerning slaves in the Famagustan notarial documents of Lamberto di Sambu
 | 43/II-67  | 1307-02-17 | sale                     | male   | 50   | Dautus                   |                       | Saracen    |        | Iohanes de Galiana of Genoa burgesis of Famagusta            | Manuele Stanconus of Genoa                                   | 100   | Cypriot white bezants |
 | 43/II-134 | 1307-04-02 | sale                     | male   |      | Dimitri                  |                       | Greek      |        | Franciscus Vaca de Finali of Genoa                           | Nicolino Sartori of Genoa                                    | 32    | Cypriot white bezants |
 
-### TABLE II: Slaves mentioned in Nicola de Boateriis's notarial acts written at Famagusta (29 August 1360-25 October 1362)
+## TABLE II: Slaves mentioned in Nicola de Boateriis's notarial acts written at Famagusta (29 August 1360-25 October 1362)
 
 | reference | date       | type                     | sex    | age  | name                 | origin     | ethnicity  | colour | seller/owner                                                 | buyer                                                        | price | currency              |
 | --------- | ---------- | ------------------------ | ------ | ---- | -------------------- | ---------- | ---------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | --------------------- |
