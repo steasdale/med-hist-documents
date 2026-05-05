@@ -1,12 +1,12 @@
 ---
-title: L’empire génois au Moyen Âge
-author: Michel Balard
+title: "L’empire génois au Moyen Âge"
+author: "Michel Balard"
 xml-lang: "fr"
-type: article
+type: "article"
 citation: "Balard, Michel. “L’empire génois au Moyen Âge.” In Les empires: Antiquité et Moyen Âge. Analyse comparée, 181–98. Collection “Histoire.” Rennes: Presses universitaires de Rennes, 2008."
 status:
-   - provisional
-   - version 1.0
+   - "provisional"
+   - "version 1.0"
 ---
 
 > <span lang="it">E tanti son li Zenoexi e per lo mondo si destex che unde li van o stan un atra Zenoa ge fan.</span>[^1]
@@ -74,7 +74,7 @@ Parmi les bénéfices tirés de l’expansion outre-mer, il ne faudrait pas nég
 Les aspects politiques, culturels et économiques ainsi dégagés autorisent-ils à parler d’un empire colonial génois? L’absence de colonies de peuplement ou de colonies agricoles, à l’exception peut-être de l’île de Chio, ne plaide pas en ce sens. Partout l’émigration ligure est réduite et la population d’origine occidentale très minoritaire. En revanche nombreux sont les comptoirs échelonnés le long des grandes voies maritimes de la Méditerranée orientale, l’une qui va vers Constantinople et la mer Noire, l’autre vers Chypre, Alexandrie et la Syrie-Palestine. Sur ces possessions, la domination politique de la métropole est souple et parfois incohérente, par opposition à celle de Venise, placée sous le rigoureux contrôle du Sénat. La domination culturelle est légère, dans la mesure où les autorités génoises d’outre-mer ont fait preuve d’habileté et de tolérance dans leurs rapports avec les populations sujettes, et n’ont pas fait de gros efforts pour imposer leur foi. En revanche, la domination économique est totale. Même si dans l’ensemble les biens des autochtones ont été respectés, la production est orientée en fonction des intérêts de la puissance colonisatrice sous la forme d’un échange inégal: matières premières contre produits finis. Ce qui importe aux Génois c’est la domination de la mer, la création d’une thalassocratie, comme le rappelait l’historien-empereur Jean Cantacuzène: "Les Génois décidèrent de dominer sur mer, sans permettre aux Byzantins d’y naviguer, comme si cette mer leur appartenait à eux seuls”[^31], ou encore, comme l’écrivait Nicéphore Grégoras, "ils rêvaient de s’emparer de l’hégémonie sur toute la mer”.[^32] Seraient-ils les précurseurs de la colonisation moderne? oui, à condition d’effectuer le rapprochement avec l’Empire portugais du début du XVe siècle, entreprise commerciale sans véritable occupation territoriale, et non avec l’Empire espagnol ou, à plus forte raison, avec les empires coloniaux du XIXe siècle. La colonisation génoise au Moyen Âge est avant tout une exploitation économique, fondée sur la domination de la mer.
 
 [^1]: "Si nombreux sont les Génois et si répandus de par le monde qu’où ils aillent et s’établissent, ils fondent une autre Gênes” (Poète anonyme génois, Anonimo genovese, *<span lang="it">Poesie</span>*, éd. Luciana COCITO, Rome, 1970, p. 566).
-[^2]: Pierre LEROY-BEAULIEU, *De la colonisation chez les peuples modernes*, Paris, 1874.
+[^2]: Paul LEROY-BEAULIEU, *De la colonisation chez les peuples modernes*, Paris, 1874.
 [^3]: Claude CAHEN, *Orient et Occident au temps des Croisades*, Paris, 1983, p. 37.
 [^4]: Benjamin KEDAR, "<span lang="it">Mercanti genovesi in Alessandria d’Egitto negli anni sessanta del secolo X</span>, *<span lang="it">Miscellanea di Studi storici II</span>*, Gênes, 1983, p. 19- 30.
 [^5]: *Ibidem*, p. 24 et Shelomo GOITEIN, *<span lang="en">A Mediterranean Society. The Jewish Communities of the Arab World as Portrayed in the Documents of the Cairo Geniza. 1. Economic Foundations</span>*, Berkeley, 1967, p. 318.
@@ -85,7 +85,7 @@ Les aspects politiques, culturels et économiques ainsi dégagés autorisent-ils
 [^10]: Giovanna PETTI BALBI, *<span lang="it">Caffaro e la cronachistica genovese</span>*, Gênes, 1982, p. 121.
 [^11]: Reinhold ROHRICHT, *<span lang="la">Regesta regni hierosolymitani</span>*, 2 voll., Innsbrück, 1893- 1904, nn. 659, 680, 682, 691, 692, 693, 695, 702, 704, 724. Cf. Marie-Luise FAVREAU-LILIE, *<span lang="de">Die Italiener im Heiligen Land vom ersten Kreuzzug bis zum Tode Heinrichs von Champagne (1098-1197)</span>*, Amsterdam, 1989, p. 230- 326.
 [^12]: Michel BALARD, *La Romanie génoise (XIIe-début du XVe siècle)*, 2 vol., Gênes-Rome (BEFAR n° 23 5), 1978, t. 1, p. 105-114.
-[^13]: MEDVEDEV, "Le traité byzantino-génois du 6 mai 1352” (en russe), *<<span lang="ru">Vizantiskij Vremennik</span>*, 38, 1977, p. 161-172.
+[^13]: MEDVEDEV, "Le traité byzantino-génois du 6 mai 1352” (en russe), *<span lang="ru">Vizantiskij Vremennik</span>*, 38, 1977, p. 161-172.
 [^14]: Michel BALARD, "Gênes et la mer Noire (XIIIe-XVe siècles)”, *Revue historique*, 270, 1983, p. 31-52, repris dans *IDEM*, *La mer Noire et la Romanie génoise*, Londres, 1989, n° V; Sergej KARPOV, *<span lang="it">L’impero di Trebisonda, Venezia, Genova e Roma, 1204-1461. Rapporti politici, diplomatici e commerciali</span>*, Rome, 1986.
 [^15]: Geo PISTARINO, "<span lang="it">Chio dei Genovesi</span>”, dans *<span lang="it">Studi Medievali</span>*, 3a serie, 10/1 (1969), p. 3-68.
 [^16]: Michel BALARD, "Les Génois dans le royaume médiéval de Chypre”, Théodore PAPADOPOULLOS (dir.), *<span lang="gr">Historia tès Kyprou</span>*, t. IV/1, Nicosie, 1995, p. 259-332 (en grec); David JACOBY, "<span lang="en">The Rise of a new Emporium in the Eastern Mediterranean: Famagusta in the late Thirteenth Century</span>”, *<span lang="gr">Meletai kai hypomnemata, Hidryma archiepiscopou Makariou III</span>*, 1 (1984), p. 143-179, repris dans IDEM, *<span lang="en">Studies on Crusader States and on Venetian Expansion</span>*, Northampton, 1989, n° VIII; Catherine OTTEN-FROUX, "Les Occidentaux dans les villes de province de l’Empire byzantin: le cas de Chypre (XIIe-XIIIe siècle)”, Michel BALARD, Élisabeth MALAMUT, Jean-Michel SPIESER (dir.), *Byzance et le monde extérieur. Contacts, relations, échanges*, Paris, 2005, p. 27-44.
@@ -100,7 +100,7 @@ Les aspects politiques, culturels et économiques ainsi dégagés autorisent-ils
 [^25]: Robert LOPEZ, *<span lang="it">Storia delle colonie genovesi</span>*, op. cit., p. v .
 [^26]: Frederic LANE, "Progrès technologiques et productivité dans les transports maritimes de la fin du Moyen Âge au début des temps modernes”, *Revue historique*, 510, 1974, p. 277-302.
 [^27]: Giovanni FORCHERI, *<span lang="it">Navi e navigazione a Genova nel Trecento, Il Liber Gazarie</span>*, Gênes, 1974.
-[^28]: Federigo MELIS, *<span lang="it">Origini e sviluppo delle assicurazioni in Italia (secc. XIV-XVI) - 1. Le fonti</span>*, Rome, 1975.
+[^28]: Federigo MELIS, *<span lang="it">Origini e sviluppo delle assicurazioni in Italia (secc. XIV-XVI)</span>*, I, *<span lang="it">Le fonti</span>*, Rome, 1975.
 [^29]: Jacques HEERS, "<span lang="it">II commercio nel Mediterraneo alla fine del sec. XIV e nei primi anni del XV</span>”, *<span lang="it">Archivio storico italiano</span>*, tome CXIII, 1955, p. 157‑209, repris dans IDEM, *Société et économie à Gênes (XIVe-XVe siècles)*, Londres, 1979, n° I.3
 [^30]: Robert DELORT, "Quelques précisions sur le commerce des esclaves à Gênes à la fin du XIVe siècle”, *Mélanges de l’École Française de Rome*, 78, 1966, p. 215-250; Michel BALARD, "Remarques sur les esclaves à Gênes dans la seconde moitié du XIIIe siècle”, *Mélanges de l’Ecole française de Rome*, 80, 1968, p. 627-680; Domenico GIOFFRÈ, *<span lang="it">Il mercato degli schiavi a Genova nel secolo XV</span>*, Gênes, 1971; Charles VERLINDEN, *L’esclavage dans l’Europe médiévale*, tome. II: *Italie-Colonies italiennes du Levant—Levant latin—Empire byzantin*, Gand, 1977.
 [^31]: Jean CANTACUZÈNE, *<span lang="gr">Historiôn biblia</span>*, éd. de Bonn 1828-1832, 3 vol., tome III, p. 69.
