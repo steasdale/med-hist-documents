@@ -3,11 +3,11 @@ title: "Les formes d’accés pactat a la llibertat entre esclaus i propietaris 
 author: "Antoni Albacete i Gascón"
 xml-lang: "ca"
 citation: "Albacete i Gascón, Antoni. “Les formes d’accés pactat a la llibertat entre esclaus i propietaris a la Barcelona del segle XV.” *Pedralbes: revista d’història moderna* 28, no. 2 (2008): 465–84."
+item-type: "transcript"
+status: "complete"
 ---
 
-# Transcript
-
-## Abstract
+## Resum
 
 A partir de la recerca en els arxius amb documentació notarial de la ciutat de Barcelona s’han identificat diverses formes d'accés a la llibertat que els propietaris pactaven (o imposaven) als seus esclaus. Al llarg del segle XV els esclaus de Barcelona retornaven a la llibertat a través de vies tals com *in tallia*; la llibertat condicionada a servir al seu propietari per un temps; llibertat condicionada a l’ensenyament d'un ofici; compravendes *<span lang="la">ad tempus</span>*; compra d'esclava per a contreure matrimoni; llibertat condicionada a l’aprenentatge d'un ofici; la llibertat concedida per testament; llibertat per la paternitat; la concessió de la llibertat amb alguna limitació específica i la concessió de la llibertat sense cap condició. Es podien donar variants i formes mixtes entre aquestes vies d'accés a la llibertat i es podien combinar en el temps diverses modalitats.
 

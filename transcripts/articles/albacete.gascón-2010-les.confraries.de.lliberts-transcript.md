@@ -4,21 +4,21 @@ author: "Antoni Albacete i Gascón"
 xml-lang: "ca"
 type: article
 citation: "Albacete i Gascón, Antoni. “Les confraries de lliberts negres a la Corona Catalanoaragonesa.” *Acta historica et archaeologica mediaevalia* 30 (2010): 307–31."
+item-type: "transcript"
+status: "complete"
 ---
 
-# Abstract
+# <span lang="en">Abstract</span>
 
 <span lang="en">Medieval societies were divided into several units where individuals were fit to join. The working scope with guilds, marriage, implying the formation of a family, or spiritual brotherhoods related to the working associations, or with a more general assistance purpose, were the areas where men and women fitted in to join the society. The freed slaves who did not return to their lands of origin were to join Barcelona’s society through these units. Two examples of the integration process through religious brotherhoods, were those that freed black people of Barcelona and Valencia created to facilitate the practice of their devotion. After comparing the texts of the ordinances of both guilds, it was easy to see how such institutions were organized, with the particularity that these were mostly built by former slaves from both cities.</span>
 
-# <span lang="en">Transcript</span>
-
-## Introducció
+# Introducció
 
 Les societats d’època medieval s’estructuraven en unitats diverses en què els individus s’hi encaixaven per formar-ne part. L’àmbit laboral, amb els gremis, el matrimoni, que implicava la formació d’una família, o l’àmbit espiritual, amb les confraries, relacionades amb els oficis o amb una finalitat d’assistència més general, eren les esferes en les quals els homes i les dones s’introduïen per formar part de la societat. Els esclaus alliberats que no retornaven a les seves terres d’origen s’integraren a la societat barcelonina a través d’aquestes unitats. Dos exemples del procés d’integració a través de la religió foren les confraries que els negres lliberts de Barcelona i València crearen per facilitar la pràctica de la seva devoció.
 
 Aquest estudi persegueix una doble finalitat. Per una banda, presentar aplegats els textos de les ordinacions de les dues confraries compostes principalment per lliberts negres. Cronològicament la primera fou la de Barcelona (1455) i posteriorment es va formar la de la ciutat de València (1472). Per l’altra, amb aquest treball es pretén comparar ambdues associacions per mostrar les especificitats i les diferències que presenten entre elles. El present estudi s’inicia amb una introducció sobre la presència d’esclaus negres a Barcelona i a la ciutat de València durant la baixa edat mitjana. Seguidament es tracten les característiques de les confraries medievals de la Corona catalanoaragonesa. Al tercer apartat s’hi fa l’estudi comparatiu d’ambdues confraries de negres lliberts. L’estudi es clou amb la transcripció dels dos textos objecte d’estudi.
 
-## Els negres a Barcelona i València a la baixa edat mitjana
+# Els negres a Barcelona i València a la baixa edat mitjana
 
 La presència d’esclaus negres a Barcelona no era significativa abans de 1350.[^1] Aquests esclaus, a partir de l’últim terç del segle XIV, eren, majoritàriament, sarraïns d’origen.[^2] Dins del col·lectiu dels esclaus islàmics, els negres eren el grup més reduït.[^3]
 
@@ -38,7 +38,7 @@ Els esclaus sarraïns negres es caracteritzaven per l’extrema paritat entre se
 
 Un cop alliberats, els sarraïns retornaven, en un alt percentatge, als seus llocs d’origen: Granada o el Magrib. Per contra els subsaharians majoritàriament es quedaven a València.[^17] Aquests últims, convertits al cristianisme, és molt probable que es casessin amb membres del seu col·lectiu. Aquest és un comportament, el del matrimoni entre lliberts de la mateixa procedència, que s’aprecia també en altres grups.[^18]
 
-## Les confraries a la Corona catalanoaragonesa medieval
+# Les confraries a la Corona catalanoaragonesa medieval
 
 La religió és una de les vies d’integració en qualsevol societat i en qualsevol període històric. Era una de les vies que la població esclava de Barcelona i de València va utilitzar per integrar-se a la societat un cop aconseguia la llibertat o bé per facilitar el seu alliberament, tot i no ser indispensable.[^19] L’apostasia pot ésser considerada com una via d’alliberament desesperat, com la fuga, quan l’esclau havia perdut la confiança a recuperar la llibertat per altres vies.[^20]
 
@@ -60,7 +60,7 @@ En alguns dels testaments dels lliberts barcelonins, de qualsevol origen ètnic,
 
 Referències a la confraria dels negres lliberts de Barcelona les trobem en els testaments dels lliberts negres Antoni Masdemunt i de Joan de Gualbes. Joan, que havia estat esclau del cavaller Miquel de Gualbes, domiciliat a Barcelona, establia en el seu testament, fet el 6 d’agost de 1457, que la confraria rebria l’herència en cas que l’hereva principal, la seva filla Maria, no la pogués rebre.[^33] En el cas d’Antoni, negre, que havia estat esclau del difunt Joan Masdemunt, ferrer d’Olot, en el seu testament, fet el 19 de juny de 1470, deixà consignat, en un memorial, que devia a la confraria de negres lliberts de Barcelona les quantitats de 18 i 12 sous.[^34]
 
-## Les confraries de lliberts negres a Barcelona i València
+# Les confraries de lliberts negres a Barcelona i València
 
 Els confrares manifestaren sota quina advocació volien posar la seva confraria en els respectius preàmbuls de les ordinacions. Els lliberts de Barcelona exposaren la seva devoció per l’apòstol sant Jaume, materialitzant aquesta devoció a l’altar que aquest sant tenia a l’església que estava sota la seva advocació a Barcelona. Els lliberts valencians materialitzaren la seva devoció a l’altar de la capella de la Verge Maria de Gràcia, al monestir de Sant Agustí. Aquests últims expressaven aquesta devoció amb l’oferiment d’un ciri a aquesta Mare de Déu el dia de la seva festivitat, oferiment que ja realitzaven abans de la creació de la confraria.[^35]
 
@@ -80,13 +80,13 @@ El grau de normativització de les dues confraries no fou el mateix. La confrari
 |moralitat|Expulsió de la confraria dels confrares incorrectes|—|
 |multes|12 diners per la no-assistència a les reunions comunitàries; 6 diners per no assistir al funeral d’un confrare; 2 diners per no dir els parenostres i els avemaries per les ànimes dels difunts; 6 diners per no combregar en nom dels confrares impedits|—|
 
-### Les motivacions
+## Les motivacions
 
 Les motivacions que els dos grups explicitaren per demanar el permís reial per a la creació de les confraries foren força similars. En el cas català, creaven la confraria en resposta a la seva devoció cristiana i, en especial, a l’apòstol sant Jaume.[^37] Per poder desenvolupar aquesta devoció, demanaren al rei el permís per formar una confraria en la qual tothom hi tingués accés, negre i no negre, llibert i lliure de natura, així com els familiars, i fins i tot esclaus amb permís dels propietaris.[^38]
 
 n el cas valencià, els lliberts exposaren que es reunien cada any, amb el permís del portantveus del governador, per portar un ciri a la capella de la Verge Maria de Gràcia,[^39] al monestir de Sant Agustí. Però aquests fidels volien augmentar la freqüència dels seus actes, i és per aquest motiu que demanaven al rei el permís per poder formar una confraria. Pel mateix text on es consignen les ordinacions de la confraria sabem el nombre inicial de confrares, entre 37 i 40 negres lliberts.[^40]
 
-### Prohoms i majoral
+## Prohoms i majoral
 
 Per poder complir amb els objectius que inspiraren la creació d’aquestes organitzacions calia un personal propi que fes complir les ordinacions i gestionés els recursos de la confraria. Aquest grup dirigent, que variarà en nombre depenent de cada confraria, era escollit d’entre els confrares, normalment per un període d’un any.[^41] Així ho veiem tant en el cas català com en el valencià.
 
@@ -104,7 +104,7 @@ Al final del seu mandat els prohoms sortints de la confraria barcelonina havien 
 
 En el cas de les ordinacions valencianes els confrares demanaven llicència per adquirir i posseir una casa a la ciutat de València.[^49] Pel que fa als lliberts barcelonins aquests no manifestaren la necessitat, si més no en les ordinacions, de tenir una "seu" pròpia, ja que com s’ha apuntat anteriorment, quan demanaren permís per reunir-se per Sant Jaume per triar els dos prohoms, deien que s’aplegarien en el lloc que ells volguessin.[^50]
 
-### Imposicions de la Confraria per al seu funcionament ordinari
+## Imposicions de la Confraria per al seu funcionament ordinari
 
 A tota associació li calen uns recursos econòmics per desenvolupar les finalitats que han motivat la seva creació. Per aquest motiu, el gruix principal d’ordinacions, si més no en el cas català estudiat, es refereixen a les diverses imposicions que els confrares havien de pagar a la caixa comuna.[^51]
 
@@ -118,7 +118,7 @@ Els prohoms de la confraria barcelonina eren els encarregats de recollir cada se
 
 Les ordinacions de la confraria valenciana simplement establien que els confrares i majorals podrien dictar ordinacions i taxes obligatòries per a tots els confrares quan les circumstàncies ho requerissin.[^57]
 
-### Obligacions dels confrares
+## Obligacions dels confrares
 
 Com ja s’ha dit, les confraries eren organitzacions que es creaven per aplegar persones més o menys vinculades per oficis, estaments o orígens que tenien unes motivacions espirituals que els portaven a desenvolupar una tasca col·lectiva. Aquesta tasca col·lectiva fou normativitzada, i, per evitar l’incompliment d’aquestes obligacions comunitàries, es marcaren multes que revertien a la caixa comuna. En el cas barceloní, s’establia que els confrares, homes i dones, eren cridats a assistir al funeral d’un confrare. Però mentre que per als homes caps de casa era obligatori, per a les mullers d’aquests no ho era. En el cas que el cap de casa fos fora de la ciutat, havia d’assistir-hi la muller, tret que tingués un impediment, demostrable pel seu simple jurament. Si el difunt era albat[^58] calia que hi anessin els confrares que fossin designats pels prohoms de la confraria. Si algun dels confrares que havia d’assistir als funerals no hi anava, sense tenir cap impediment justificat, havia de pagar, per cada incompliment, 6 diners.[^59]
 
@@ -126,7 +126,7 @@ Per altra banda, cada confrare, quan ingressava a la confraria, havia de prometr
 
 També es troba consignat que si hi havia confrares malalts que no podien combregar, altres confrares, en nom seu, designats pel prohoms de la confraria s’ocuparien de combregar en nom d’aquests confrares impedits. Si aquests confrares designats no volien complir amb aquesta obligació en aquest cas haurien de pagar, per cada vegada que no la complissin, 6 diners a la caixa de la confraria.[^61]
 
-### La tasca realitzada per la confraria
+## La tasca realitzada per la confraria
 
 Com ja hem dit anteriorment, les confraries es formaven per una devoció concreta, però també per realitzar unes tasques d’assistència, ja fossin a la societat en general, ja fossin destinades als membres de l’agrupació. Dos moments sensibles que mereixen l’atenció de les confraries eren l’enterrament d’un confrare o la seva malaltia.[^62]
 
@@ -138,7 +138,7 @@ A les ordinacions valencianes s’estipulà l’ajuda als confrares malalts, pob
 
 Les ordinacions també establien una sèrie de despeses que la confraria havia de fer per a l’adquisició del parament que la comunitat havia d’utilitzar en el seu funcionament. En el cas barceloní trobem una ordinació que estableix que, a partir dels diners de la caixa de la confraria, siguin comprats ciris, llànties, draps i qualsevol altre element que hagi de menester.[^68]
 
-### La festivitat
+## La festivitat
 
 A les ordinacions de la confraria barcelonina s’establien unes despeses concretes i periòdiques de la confraria per a la festa de Corpus Christi. A les ordinacions es va disposar que s’havien d’adquirir 12 ciris blancs amb un pes cadascun de 5 o 6 lliures, més un ciri gros, de 20 lliures. Els ciris serien portats per tots els confrares en la processó de Corpus, junt amb les altres confraries i oficis. Finalment es disposava que aquests ciris serien dipositats a l’església de Sant Jaume perquè fossin utilitzats totes les festes de l’any.[^69]
 
@@ -146,21 +146,21 @@ Tot i que la confraria estava sota l’advocació de sant Jaume Apòstol, només
 
 Els negres lliberts de València exposaren en el seu preàmbul que ja abans de constituir la confraria es reunien tots els anys, amb el permís del portantveus del governador, per portar un ciri a la capella de la Verge Maria de Gràcia, en el monestir de Sant Agustí.[^71]
 
-### La representació
+## La representació
 
 En el cas valencià es demanà l’autorització reial per poder posseir un estendard reial i fixar-lo a la finestra de la casa de la confraria. Aquest seria utilitzat a les desfilades, processons, festes i actes públics, juntament amb els dels oficis.[^72]
 
 Els lliberts barcelonins no tenien cap referència a la possessió d’un estendard en els seus estatuts.
 
-### La moralitat
+## La moralitat
 
 Aquestes organitzacions, com ja hem destacat, tenien, a banda de les funcions més materials d’ajuda, una finalitat espiritual, de devoció. Per això trobem en les ordinacions barcelonines una ordinació en què s’estipulà que la confraria podia expulsar els confrares que no es comportessin amb correcció i seguint les normes de la confraria. En el cas d’ésser expulsats, la confraria se’n desentendria totalment, no tenint-ne cura ni en cas de malaltia, ni en la desgràcia ni en la mort.[^73]
 
-## Apèndix documental
+# Apèndix documental
 
 Ambdós textos han estat publicats amb anterioritat, el text barceloní per Pròsper de Bofarull i el text valencià per Miguel Gual Camarena, però s’ha considerat pertinent fer-ne una nova transcripció aplegant-los per realitzar el present estudi.
 
-### Document 1
+## Document 1
 
 1455, març, 20. Barcelona.
 
@@ -230,7 +230,7 @@ E per ço, que les coses dessús dites e altres en après diedores mils pusquen 
 
 <span lang="la">Provisa.</span>
 
-### Document 2
+## Document 2
 
 1472, novembre, 3. Palau Reial de València.
 

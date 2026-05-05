@@ -4,25 +4,23 @@ author: "Antoni Albacete i Gascón"
 xml-lang: "ca"
 type: article
 citation: "Albacete i Gascón, Antoni. “El matrimoni com a via d’integració dels lliberts a la Barcelona del segle XV.” La ciutat en xarxa, 2009, 1–10."
-status: complete
-
+item-type: "transcript"
+status: "complete"
 ---
 
-# Abstracts
-
-### Resum
+# Resum
 
 La societat medieval s’estructurava en un conjunt funcional d’unitats diverses: laborals, familiars, religioses. Pel que feia a la seva integració en aquestes esferes, els lliberts no foren una excepció. De fet, per als integrants d’aquest col·lectiu, a causa del seu caràcter extern a la comunitat tot i que fes molts anys que visquessin a la ciutat, fou de gran importància introduir-se en aquestes unitats com a via d’integració social un cop esdevenien persones lliures. Aquesta comunicació se centra en el matrimoni com l’element utilitzat pels antics esclaus com a forma d’alliberament personal i d’integració social a la Barcelona del segle XV. Després d’una breu introducció sobre l’esclavitud a Barcelona i les formes d’alliberament dels esclaus durant els segles baixmedievals, analitzem el rol dels propietaris en les opcions de matrimoni dels seus esclaus, tant en el moment d’alliberar-los com un cop aquests ja eren lliures de ple dret; aspectes propis del col·lectiu estudiat, com la seva procedència geogràfica; i la condició social i també l’origen geogràfic dels cònjuges lliures de natura. Igualment, fem referència a la qüestió del dot i l’escreix. Les fonts documentals utilitzades primordialment han estat les notarials: en elles hi trobem una riquesa excepcional d’informacions sobre el dia a dia dels lliberts: les compravendes per matrimoni, els instruments referents al mateix matrimoni entre lliberts o d’aquests amb lliures de natura, i els seus testaments, entre d’altres tipologies documentals.
 
-### <span lang="sp">Resumen</span>
+# <span lang="sp">Resumen</span>
 
 <span lang="sp">La societat medieval s’estructurava en un conjunt funcional d’unitats diverses: laborals, familiars, religioses. Pel que feia a la seva integració en aquestes esferes, els lliberts no foren una excepció. De fet, per als integrants d’aquest col·lectiu, a causa del seu caràcter extern a la comunitat tot i que fes molts anys que visquessin a la ciutat, fou de gran importància introduir-se en aquestes unitats com a via d’integració social un cop esdevenien persones lliures. Aquesta comunicació se centra en el matrimoni com l’element utilitzat pels antics esclaus com a forma d’alliberament personal i d’integració social a la Barcelona del segle xv. Després d’una breu introducció sobre l’esclavitud a Barcelona i les formes d’alliberament dels esclaus durant els segles baixmedievals, analitzem el rol dels propietaris en les opcions de matrimoni dels seus esclaus, tant en el moment d’alliberar-los com un cop aquests ja eren lliures de ple dret; aspectes propis del col·lectiu estudiat, com la seva procedència geogràfica; i la condició social i també l’origen geogràfic dels cònjuges lliures de natura. Igualment, fem referència a la qüestió del dot i l’escreix. Les fonts documentals utilitzades primordialment han estat les notarials: en elles hi trobem una riquesa excepcional d’informacions sobre el dia a dia dels lliberts: les compravendes per matrimoni, els instruments referents al mateix matrimoni entre lliberts o d’aquests amb lliures de natura, i els seus testaments, entre d’altres tipologies documentals.</span>
 
-# Transcript
+\*     *     *     *     *
 
 En el present estudi intentaré mostrar com el matrimoni fou una de les formes d’integració dels lliberts i les llibertes a la societat barcelonina. El període cronològic triat per desenvolupar el present treball és el segle XV. El treball està dividit en tres grans apartats: en primer lloc, una breu introducció sobre el fenomen de l’esclavitud a Barcelona, sobre com el mercat barceloní d’esclaus estava totalment inserit en les xarxes comercials de la ciutat amb la resta de mercats de la Mediterrània; a continuació, també de forma breu, es tracten les diverses formes d’accés a la llibertat utilitzades pels esclaus; en tercer lloc, s’entra en la matèria específica d’aquesta comunicació: els diversos aspectes del matrimoni d’aquest col·lectiu.
 
-## L’esclavitud a Barcelona
+# L’esclavitud a Barcelona
 
 El mercat barceloní d’esclaus als segles medievals es nodrí de tres processos històrics: l’expansió territorial dels regnes cristians de la Península Ibèrica, l’expansió politicocomercial italiana i catalana per la Mediterrània oriental[^1] i les expedicions portugueses al llarg de les costes africanes.[^2] 
 
@@ -38,7 +36,7 @@ Cap als anys centrals de la segona meitat del segle xv, dues de les principals l
 
 Aquesta situació provocà l’entrada creixent d’esclaus procedents del comerç portuguès a la costa atlàntica del continent africà. Aquests esclaus provindrien tant de Portugal mateix com del regne de València o d’Andalusia, en el regne de Castella.[^14]
 
-## Les formes d’accés a la llibertat
+# Les formes d’accés a la llibertat
 
 Les vies d’accés a la llibertat que els esclaus i les esclaves de Barcelona utilitzaven es poden dividir en tres tipus: de forma pactada entre el propietari i l’esclau, no pactada entre ambdues parts (fugida de l’esclau) i una modalitat que podríem anomenar “mixta”, aplicable només a esclaus d’origen cristià de l’Europa oriental i Pròxim Orient, que consistí en la intervenció d’un sector de l’Església i de la Corona per al seu alliberament.[^15]
 
@@ -48,13 +46,13 @@ La fuga adquirí grans proporcions a Catalunya degut a la situació geogràfica 
 
 Designo com a via “mixta” la que només afectà als esclaus cristians de l’Europa oriental i del Pròxim Orient perquè ni fou iniciativa dels propietaris ni els esclaus fugiren. Aquest “moviment” d’emancipació fou encapçalat per alguns bisbes de Barcelona i ben aviat continuat i impulsat per la mateixa Corona. Aquest corrent l’hem de situar en els darrers quaranta anys del segle XIV i els primers quaranta del segle XV, amb una important arribada d’esclaus orientals a terres de la Corona catalanoaragonesa: russos, caucàsics, tàrtars, turcs, armenis, grecs, albanesos, bosnians i búlgars. Per diverses raons, des de l’Occident catòlic es considerava aquests pobles com heretges, tot i ser cristians: els grecs ortodoxos, pel seu enfrontament secular amb el papat; els bosnians i els búlgars perquè sovint pertanyien a la secta dels patarins o eren adeptes al bogomilisme, respectivament, ambdues fes condemnades com heretgia per l’Església romana; i els cristians orientals per les seves tradicions. Tot i això, altres pobles sense cap “contaminació” herètica ni cismàtica, com era el cas dels albanesos, de confessió catòlica, també eren esclavitzats. Sovint les guerres justificaven la reducció de cristians a servitud. Més d’una vegada, la Santa Seu equiparà els rebels a la seva autoritat als infidels, situació que comportava poder reduir-los a captivitat.[^21]
 
-## El matrimoni com element d’integració 
+# El matrimoni com element d’integració 
 
 Les societats d’època medieval s’estructuraven en unitats diverses on els individus s’hi encaixaven per formar-ne part. Juntament amb el matrimoni, que implicava la formació d’una família, trobem l’àmbit laboral, amb els gremis, o l’àmbit espiritual, amb les confraries, relacionades amb els oficis o amb una finalitat d’assistència més general.[^22]
 
 Per als esclaus i les esclaves alliberats, el matrimoni era una de les vies per integrar- se a la societat i seguir les pautes de comportament social de la resta de la població. Per a algunes esclaves, el matrimoni significà el punt de partida d’una nova vida, com a persona lliure, perquè aconseguien la seva llibertat precisament contraient matrimoni. Com he dit, aquesta forma d’accés a la llibertat consistia en la compra de l’esclava per part del futur marit, amb l’objectiu d’alliberar-la per contraure- hi matrimoni. Els futurs marits tant podien ser lliures de natura com lliberts, i les futures mullers sempre eren les esclaves.[^23]
 
-### El rol dels propietaris en les opcions de matrimoni
+## El rol dels propietaris en les opcions de matrimoni
 
 Aquests tipus de contractes normalment no parlaven de compra. Sovint es deia que l’amo alliberava l’esclava com una gràcia personal. Però en molts casos, tot seguit, figurava una quantitat monetària que el futur marit havia de pagar en concepte d’indemnització.[^24] És el cas de Pere Aymar, porter del rei i la reina, que el 6 de juny de 1448 reconeixia que havia alliberat la seva esclava Antònia (tot i que només havia passat un any i un mes, aproximadament, des que l’havia comprat per un període de sis anys) perquè es casés amb Joan Andreu Bernat, traginer d’ofici.[^25] Per alliberar-la abans del dit període establert en la seva compra havia de rebre la quantitat de 18 lliures. Seguidament, trobem un segon instrument en el que Joan Andreu Bernat i Antònia, la seva futura muller, feien un debitori a Pere Aymar per les 9 lliures que faltaven per pagar de les 18 que es pactaren per l’alliberament de la dona. Joan Andreu i Antònia prometeren fer el pagament a Pere Aymar en dos terminis.[^26] Un altre cas és el de Joana, cristiana de la centura,[^27] que també fou alliberada (quan encara li quedaven dos anys com a esclava del mercader Guillem Mancofa) per poder casar-se amb el també cristià de la centura Joan de Súria.[^28] En aquest cas no es diu que el propietari hagués de rebre cap compensació, tot i que molt probablement fou així.
 
@@ -62,7 +60,7 @@ Aquests alliberaments es feien expressament perquè l’esclava es casés; per t
 
 Per últim, també trobem exemples d’alguns propietaris que mostraren certa preocupació pel futur dels seus esclaus, especialment en el moment de fer testament. En algun cas s’establia l’aprenentatge d’un ofici complementat amb l’aportació del dot en cas de matrimoni, com trobem a la clàusula del testament d’Elisenda, vídua del mercader de Barcelona Jaume Texander.[^32] També és el cas de Llúcia, muller d’Antoni de Gualbes, traginer de ribera, que havia estat esclava del difunt Antoni Ferrer, la qual, el 21 de febrer de 1458, va rebre de Bartomeu Ferrer, fill i hereu d’Antoni Ferrer, 25 lliures que el seu antic propietari li deixà com a llegat *<span lang="la">in auxilium maritandi</span>*.[^33]
 
-### El control del matrimoni dels esclaus i les esclaves *<span lang="la">in statu libero</span>*
+## El control del matrimoni dels esclaus i les esclaves *<span lang="la">in statu libero</span>*
 
 Els contractes d’alforria més estesos i que podem considerar com a més habituals eren els del sistema de la talla i els de servei temporal. Especialment aquests últims, perquè, de fet, en moltes de les formes d’accés pactat a la llibertat trobem que l’esclau havia de treballar per un temps determinat per al seu propietari o per a terceres persones.[^34] En aquests dos tipus de contractes s’estipulaven una sèrie de condicions que els esclaus *<span lang="la">in statu libero</span>*[^35] havien de complir mentre estaven pagant la talla o realitzant el temps de servei pactat.[^36]
 
@@ -70,11 +68,11 @@ Una de les condicions imposades pel propietari era que l’esclau o l’esclava 
 
 Tot i aquesta clàusula, en aquests contractes d’alforria hi havia esclaus en situació *<span lang="la">in statu libero</span>* que es casaven, cal suposar que amb permís del propietari.[^38]
 
-### Matrimoni esclau?
+## Matrimoni esclau?
 
 La documentació ens ha deixat exemples de matrimonis d’esclaus,[^39] però creiem que aquests devien haver estat formalitzats abans del captiveri.[^40] Ara bé, sí que trobem exemples que ens fan intuir que existien certes relacions de parella entre esclaus si els amos hi consentien. Seria el cas de Lluc, esclau d’origen tàrtar, comprat pel pintor Lluís Borrassà a les darreries de 1392.[^41] El 23 de març de 1424, Lluís Borrassà i Antoni Gual, propietari de l’esclava Maria, també d’origen tàrtar, signaven un instrument de manumissió a favor d’Agnès, un nadó de tres dies, filla dels dos esclaus.[^42] Mesos més tard, el dia 27 d’octubre de 1424, se signava l’instrument de venda de l’esclava Maria, mare de la lliberta Agnès, per part d’Antoni Gual a Lluís Borrassà, passant així a conviure la parella d’esclaus sota el mateix sostre i amb el mateix propietari.[^43] Lluc no esdevingué realment lliure fins la mort de Borrassà;[^44] i a continuació va pactar la compra de l’esclava Maria amb Elionor Borrassà, filla i hereva del pintor, amb data de 20 d’agost de 1427.[^45]
 
-### Condició social dels cònjuges lliures de natura
+## Condició social dels cònjuges lliures de natura
 
 Jacques Heers es refereix als matrimonis entre homes lliures de natura i esclaves alliberades com
 
@@ -88,13 +86,13 @@ Coneixem alguns casos de llibertes que es casen amb homes més o menys acomodats
 
 Els casos de lliberts que es casen amb dones lliures de natura eren menys freqüents, però també en tenim algun exemple. Com el de Jordi, tàrtar, esclau de Francesc Oliver; un cop lliure, després de pagar la talla, va continuar –com oficial d’un altre llibert– a l’obrador del seu antic propietari, i després de mort aquest, acabà casant-se amb la seva vídua.[^54] Un altre cas és el de Jaume sa Olzina, agricultor, antic esclau del difunt Martí sa Olzina, que l’11 de febrer de 1449 reconeixia que havia rebut el dot de Maria, la seva futura muller, vídua de l’agricultor Pere Roger.[^55] O el cas de Joan Sagarra, negre, antic esclau del cavaller Joan de Boixadors, que el 15 d’agost de 1452 reconeixia que havia rebut de Joana, filla dels difunts Pere Asbert Desplà, calderer, i de Caterina, diversos béns en concepte de dot.[^56]
 
-### Els orígens dels lliberts i les llibertes
+## Els orígens dels lliberts i les llibertes
 
 Els orígens dels lliberts i les llibertes que contreien matrimoni eren tan diversos com ho eren les vies d’aprovisionament d’esclaus de la ciutat de Barcelona.
 
 La doctora Plazolles, que parteix de documentació on consten fiadors, ha establert les diverses solidaritats etnogeogràfiques:[^57] eslaus del centre i est d’Europa amb grecs, armenis, circassians, búlgars, abcassos, russos i tàrtars; musulmans, orientals, occidentals blancs o llors amb sarraïns blancs, àrabs orientals, turcs, llors i negres musulmans; negres musulmans o animistes escassament amb musulmans blancs, llors o negres. Sense excloure la possibilitat d’excepcions – que segur que n’hi havia – creiem que aquestes afinitats geogràfiques, i fins a cert punt religioses, també tenien un pes important a l’hora de formar el matrimoni. Així, trobem els casos d’Andreu, llibert d’origen rus, que va contreure matrimoni amb Cali, àlies Caterina, d’origen grec;[^58] el de Joan de Súria i Joana, que eren ambdós cristians de la centura;[^59] el de Marc, d’origen grec, de Constantinople, que es casà amb Joana, d’origen tàrtar;[^60] el de Joan Dolcet i la seva esposa Helena, ambdós d’origen tàrtar;[^61] el cas d’un llibert turc que signava una carta dotal reconeixent un dot de 25 lliures a la seva muller, també lliberta d’origen turc;[^62] o bé el de Lluc i Maria, els esclaus propietat de Lluís Borrassà abans esmentats, que també compartien origen ètnic, ja que eren tàrtars.[^63]
 
-### Els dots
+## Els dots
 
 Els dots que aportaven les llibertes normalment eren reduïts: de 12 lliures;[^64] 16 lliures, 10 sous;[^65] 20 lliures;[^66] 25 lliures;[^67] 40 lliures[^68] o 50 lliures.[^69] A més, poques vegades rebien l’escreix o donació per núpcies que només es donava a les noies verges, entenent que les dones que havien estat esclaves no ho eren.[^70] Tot i que en el cas ja citat de Joana, la futura esposa de Joan de Súria, sí va rebre del seu futur marit la donació *propter nupcias*, que juntament amb el dot, fou aportat per la futura muller a partir dels béns del seu futur marit; la quantitat era de 15 lliures.[^71]
 
@@ -102,7 +100,7 @@ Els dots que aportaven les llibertes normalment eren reduïts: de 12 lliures;[^6
 [^2]: Antoni FURIÓ, “Esclaus i assalariats. La funció econòmica de l’esclavitud en la Península Ibèrica a la Baixa Edat Mitjana”, dins *De l’esclavitud a la llibertat…*, pàg. 23.
 [^3]: La important presència d’esclaus i esclaves a Barcelona durant els segles baixmedievals es pot veure a Josep HERNANDO I DELGADO, *Els esclaus islàmics a Barcelona: blancs, negres, llors i turcs. De l’esclavitud a la llibertat (s. XIV)*, Barcelona, CSIC (Institució Milà i Fontanals), 2003; i a Roser SALICRÚ I LLUCH, *Esclaus i propietaris d’esclaus a la Catalunya del segle XV. L’assegurança contra fugues*, Barcelona, CSIC (Institució Milà i Fontanals), 1998.
 [^4]: Mercaders catalans compraven esclaus a Gènova per exportar-los a terres musulmanes, fet que va comportar que en diversos instruments de notaris genovesos de compravenda d’esclaus es trobi una clàusula que prohibia explícitament revendre l’esclau a cap mercader català o bé portar l’esclau a cap dels territoris de la Corona catalanoaragonesa (Heers, *<span lang="sp">Esclavos y sirvientes…</span>*, pàg. 100-101).
-[^5]: Francisco Javier MARZAL PALACIOS, “<span lang="sp">La esclavitud en Valencia durante la Baja Edad Media (1375- 1425)</span>”,València, Universitat de València, Departament d’Historia Medieval, 2006, pàg. 206 [tesi doctoral en línia consultada el 24-IV-2009].
+[^5]: Francisco Javier MARZAL PALACIOS, “<span lang="sp">La esclavitud en Valencia durante la Baja Edad Media (1375- 1425)</span>”, València, Universitat de València, Departament d’Historia Medieval, 2006, pàg. 206 [tesi doctoral en línia consultada el 24-IV-2009].
 [^6]: Per veure la distribució dels esclaus pel territori del Principat cal veure els diversos quadres on es consignen el lloc de residència dels propietaris d’esclaus en els següents estudis. Per al segle XIV: HERNANDO, *Els esclaus islàmics*…, pàg. 100-103; tot i que aquest estudi se centri únicament en la població esclava d’origen islàmic, creiem que és igualment vàlid per a copsar la distribució d’esclaus d’altres col·lectius. Per al segle XV: SALICRÚ, *Esclaus i propietaris*…, pàg. 74-80, 108, 119, 149-154, 165-175, 209-211.
 [^7]: MARZAL, “<span lang="sp">La esclavitud en Valencia…</span>”, pàg. 210.
 [^8]: MARZAL, “<span lang="sp">La esclavitud en Valencia…</span>”, pàg. 211.
@@ -148,7 +146,7 @@ Els dots que aportaven les llibertes normalment eren reduïts: de 12 lliures;[^6
 [^48]: *AHPB*, Marc Canyís, *Manuale*, 1427-1433 (22-XII-1427).
 [^49]: *AHPB*, Miquel Abella, *Manuale tercium*, 1449-1451 (8-VI-1449), citat a ALBACETE, *Les formes d’alliberament…*
 [^50]: *AHPB*, Bernat Pi, *Manual*, 1416 (26-II-1416).
-[^51]: . *AHPB*, Pere Bartomeu Valls, *Manual*, 1444-1451 (1-VIII-1448), citat a ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49.
+[^51]: *AHPB*, Pere Bartomeu Valls, *Manual*, 1444-1451 (1-VIII-1448), citat a ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49.
 [^52]: *AHCB*, Fons notarial, Sèrie IX, Capsa 16, Carpeta (1446-1459), citat per Fabianne PLAZOLLES GUILLEN, “Trayectorias sociales de los libertos musulmanes y negroafricanos en la Barcelona tardomedieval”, dins *De l’esclavitud a la llibertat…*, pàg. 629.
 [^53]: *ADB* (Arxiu Diocesà de Barcelona), procés 670 (1433), citat per VINYOLES, “Integració de les…”, pàg. 610.
 [^54]: *ACA* (Arxiu de la Corona d’Aragó), Batllia General, Processos, Béns Vagants, 1456-1-B, citat per PLAZOLLES, “Trayectorias sociales de…”, pàg. 619.
