@@ -3,10 +3,9 @@ title: "Etnie e strati sociali negli insediamenti medievali italiani del Mar Ner
 author: "Gabriella Airaldi"
 xml-lang: "it"
 citation: "Airaldi, Gabriella. “Etnie e strati sociali negli insediamenti medievali italiani del Mar Nero.” *Byzantinobulgarica* 7 (1981): 247–52."
-keywords: Genoa, Mediterranean, Caffa, 1300s, 1400s, Black Sea, Venice (Veneto), Social History
+item-type: "transcript"
+status: "complete"
 ---
-
-# Transcript
 
 Sono lieta che questo incontro scientifico mi permetta di prospettare qui, per la prima volta, l’impostazione di una tematica di indagine, alla quale io penso ormai da tempo e che intendo realizzare nell’ambito della mia cattedra all’università di Genova con la collaborazione dei colleghi dell’Istituto e spero anche con l’aiuto, ugualmente determinante per ben intendere la prospettiva storica, dei colleghi bulgari e di tutti coloro le cui ricerche riguardino in qualche modo quella nostra antica storia comune.
 
