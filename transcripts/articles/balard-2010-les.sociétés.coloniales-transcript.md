@@ -4,7 +4,7 @@ author: "Michel Balard"
 xml-lang: "fr"
 citation: "Balard, Michel. “Les sociétés coloniales à la fin du Moyen Âge.” In *Dynamiques sociales au Moyen Âge, en Occident et en Orient*, edited by Élisabeth Malamut, 151–72. Le temps de l’histoire. Aix-en-Provence: Presses universitaires de Provence, 2010. https://doi.org/10.4000/books.pup.6757."
 status:
-  - "provisional draft"
+  - "provisional"
   - "version 1.0"
 ---
 
