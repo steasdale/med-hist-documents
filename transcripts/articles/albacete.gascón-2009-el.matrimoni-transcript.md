@@ -6,6 +6,7 @@ type: article
 citation: "Albacete i Gascón, Antoni. “El matrimoni com a via d’integració dels lliberts a la Barcelona del segle XV.” La ciutat en xarxa, 2009, 1–10."
 item-type: "transcript"
 status: "complete"
+last-update: "2026-06-17"
 ---
 
 # Resum
@@ -14,7 +15,7 @@ La societat medieval s’estructurava en un conjunt funcional d’unitats divers
 
 # <span lang="sp">Resumen</span>
 
-<span lang="sp">La societat medieval s’estructurava en un conjunt funcional d’unitats diverses: laborals, familiars, religioses. Pel que feia a la seva integració en aquestes esferes, els lliberts no foren una excepció. De fet, per als integrants d’aquest col·lectiu, a causa del seu caràcter extern a la comunitat tot i que fes molts anys que visquessin a la ciutat, fou de gran importància introduir-se en aquestes unitats com a via d’integració social un cop esdevenien persones lliures. Aquesta comunicació se centra en el matrimoni com l’element utilitzat pels antics esclaus com a forma d’alliberament personal i d’integració social a la Barcelona del segle xv. Després d’una breu introducció sobre l’esclavitud a Barcelona i les formes d’alliberament dels esclaus durant els segles baixmedievals, analitzem el rol dels propietaris en les opcions de matrimoni dels seus esclaus, tant en el moment d’alliberar-los com un cop aquests ja eren lliures de ple dret; aspectes propis del col·lectiu estudiat, com la seva procedència geogràfica; i la condició social i també l’origen geogràfic dels cònjuges lliures de natura. Igualment, fem referència a la qüestió del dot i l’escreix. Les fonts documentals utilitzades primordialment han estat les notarials: en elles hi trobem una riquesa excepcional d’informacions sobre el dia a dia dels lliberts: les compravendes per matrimoni, els instruments referents al mateix matrimoni entre lliberts o d’aquests amb lliures de natura, i els seus testaments, entre d’altres tipologies documentals.</span>
+<span lang="sp">La societat medieval s’estructurava en un conjunt funcional d’unitats diverses: laborals, familiars, religioses. Pel que feia a la seva integració en aquestes esferes, els lliberts no foren una excepció. De fet, per als integrants d’aquest col·lectiu, a causa del seu caràcter extern a la comunitat tot i que fes molts anys que visquessin a la ciutat, fou de gran importància introduir-se en aquestes unitats com a via d’integració social un cop esdevenien persones lliures. Aquesta comunicació se centra en el matrimoni com l’element utilitzat pels antics esclaus com a forma d’alliberament personal i d’integració social a la Barcelona del segle XV. Després d’una breu introducció sobre l’esclavitud a Barcelona i les formes d’alliberament dels esclaus durant els segles baixmedievals, analitzem el rol dels propietaris en les opcions de matrimoni dels seus esclaus, tant en el moment d’alliberar-los com un cop aquests ja eren lliures de ple dret; aspectes propis del col·lectiu estudiat, com la seva procedència geogràfica; i la condició social i també l’origen geogràfic dels cònjuges lliures de natura. Igualment, fem referència a la qüestió del dot i l’escreix. Les fonts documentals utilitzades primordialment han estat les notarials: en elles hi trobem una riquesa excepcional d’informacions sobre el dia a dia dels lliberts: les compravendes per matrimoni, els instruments referents al mateix matrimoni entre lliberts o d’aquests amb lliures de natura, i els seus testaments, entre d’altres tipologies documentals.</span>
 
 \*     *     *     *     *
 
@@ -26,13 +27,13 @@ El mercat barceloní d’esclaus als segles medievals es nodrí de tres processo
 
 Barcelona fou un centre de primera importància tant pel fa al “consum”[^3] com per la seva funció redistribuïdora d’esclaus i esclaves cap a altres territoris amb els quals la ciutat estava connectada comercialment, fins i tot amb territoris islàmics.[^4]
 
-Catalunya exercia un important paper com a redistribuïdora – tant a l’àmbit de la Mediterrània com de l’Atlàntic – dels esclaus que hi arribaven, amb Barcelona com a gran centre de redistribució.[^5] La ciutat també exercia aquest mateix paper per al Principat. Des de Barcelona s’enviaven esclaus i esclaves cap a diverses poblacions catalanes, és per això que la seva presència a Catalunya era nombrosa i estesa arreu del territori, tot i que de forma desigual. Al llarg de tota l’Edat Mitjana, el major nombre el trobem a Barcelona i la seva vegueria.[^6] Cronològicament, el volum d’esclaus distribuïts pel territori de Catalunya arribà a cotes significatives a mitjan segle xiv, amb el seu punt culminant a les primeres dècades del segle XV.[^7] Però serà cap a mitjan aquest segle quan s’iniciï la tendència a la concentració de la població esclava a les grans ciutats, especialment a Barcelona.[^8]
+Catalunya exercia un important paper com a redistribuïdora – tant a l’àmbit de la Mediterrània com de l’Atlàntic – dels esclaus que hi arribaven, amb Barcelona com a gran centre de redistribució.[^5] La ciutat també exercia aquest mateix paper per al Principat. Des de Barcelona s’enviaven esclaus i esclaves cap a diverses poblacions catalanes, és per això que la seva presència a Catalunya era nombrosa i estesa arreu del territori, tot i que de forma desigual. Al llarg de tota l’Edat Mitjana, el major nombre el trobem a Barcelona i la seva vegueria.[^6] Cronològicament, el volum d’esclaus distribuïts pel territori de Catalunya arribà a cotes significatives a mitjan segle XIV, amb el seu punt culminant a les primeres dècades del segle XV.[^7] Però serà cap a mitjan aquest segle quan s’iniciï la tendència a la concentració de la població esclava a les grans ciutats, especialment a Barcelona.[^8]
 
 L’arribada d’esclaus procedents de les accions de cors s’incrementà de forma paral·lela al desenvolupament del tràfic d’esclaus. A mesura que es desenvolupava el comerç, hi havia més pirates que s’apropiaven de les mercaderies transportades, així com aventurers que feien ràtzies a les costes.[^9] Tot i això, el volum principal dels esclaus que arribaven a Barcelona ho feia a través de les xarxes comercials de la ciutat.[^10]
 
 Les zones on els catalans adquirien els seus esclaus eren: l’Egeu (des de Constantinoble, al nord, fins a Creta i Rodes, al sud), la zona italiana (formada per la república de Gènova, el regne de Nàpols, la república de Venècia i el regne de Sicília), la costa dàlmata i les costes occitanoprovençals. Destaquen Gènova i Sicília com els grans proveïdors d’esclaus d’aquest àmbit; per contra, Venècia fou el centre que n’aportà menys. A les terres de la costa dàlmata, els catalans hi anaren només com a compradors, mentre que a la zona occitanoprovençal era lloc de compra i venda.[^11] També cal tenir present el comerç d’esclaus amb els altres territoris mediterranis de la Corona: el regne de València i el de Mallorca, un tràfic que s’inscrivia en el context d’unes relacions comercials molt més àmplies.[^12]
 
-Cap als anys centrals de la segona meitat del segle xv, dues de les principals línies del comerç a la Mediterrània entraren en decadència: la que tenia per origen les costes del nord i d’orient de la mar Negra i la que el tenia a Munt de Barques.[^13]
+Cap als anys centrals de la segona meitat del segle XV, dues de les principals línies del comerç a la Mediterrània entraren en decadència: la que tenia per origen les costes del nord i d’orient de la mar Negra i la que el tenia a Munt de Barques.[^13]
 
 Aquesta situació provocà l’entrada creixent d’esclaus procedents del comerç portuguès a la costa atlàntica del continent africà. Aquests esclaus provindrien tant de Portugal mateix com del regne de València o d’Andalusia, en el regne de Castella.[^14]
 
@@ -40,7 +41,7 @@ Aquesta situació provocà l’entrada creixent d’esclaus procedents del comer
 
 Les vies d’accés a la llibertat que els esclaus i les esclaves de Barcelona utilitzaven es poden dividir en tres tipus: de forma pactada entre el propietari i l’esclau, no pactada entre ambdues parts (fugida de l’esclau) i una modalitat que podríem anomenar “mixta”, aplicable només a esclaus d’origen cristià de l’Europa oriental i Pròxim Orient, que consistí en la intervenció d’un sector de l’Església i de la Corona per al seu alliberament.[^15]
 
-Les vies d’accés a la llibertat pactades entre els propietaris i els esclaus eren diverses: el sistema de la talla, el servei temporal, la llibertat concedida per testament, la venda *ad tempus*, la llibertat condicionada a l’ensenyament o a l’aprenentatge d’un ofici, la llibertat per paternitat, la concessió de la llibertat amb alguna limitació, la concessió de la llibertat sense cap condició i la venda d’esclava per al matrimoni.[^16] Aquesta última via d’alliberament –el matrimoni com a via de la llibertat a partir de la compra prèvia de l’esclava per part del futur marit– és l’aspecte més remarcat en aquesta comunicació.
+Les vies d’accés a la llibertat pactades entre els propietaris i els esclaus eren diverses: el sistema de la talla, el servei temporal, la llibertat concedida per testament, la venda *<span lang="la">ad tempus</span>*, la llibertat condicionada a l’ensenyament o a l’aprenentatge d’un ofici, la llibertat per paternitat, la concessió de la llibertat amb alguna limitació, la concessió de la llibertat sense cap condició i la venda d’esclava per al matrimoni.[^16] Aquesta última via d’alliberament –el matrimoni com a via de la llibertat a partir de la compra prèvia de l’esclava per part del futur marit– és l’aspecte més remarcat en aquesta comunicació.
 
 La fuga adquirí grans proporcions a Catalunya degut a la situació geogràfica del país. D’una banda, la proximitat a terres islàmiques, tant per via terrestre com marítima, i amb importants comunitats mudèjars a la vall de l’Ebre i al País Valencià; de l’altra, la proximitat amb la ciutat de Tolosa de Llenguadoc, on l’esclavitud no estava reconeguda i els esclaus que hi arribaven esdevenien lliures *<span lang="la">de facto</span>*.[^17] La magnitud d’aquest fenomen, tot un problema per als propietaris, portà a adoptar mesures per part de les institucions a instància d’aquells. El Consell de Barcelona promulgà tota una sèrie d’ordinacions encaminades a minimitzar el risc de fuga dels esclaus, ja fos amb la prohibició que els esclaus circulessin de nit per la ciutat[^18] o sortissin dels seus límits sense el permís exprés dels seus propietaris,[^19] ja fos prohibint que quedessin barques a la platja de Barcelona sense lligar i amb els aparells a bord. Malgrat les mesures adoptades, no hi hagué una disminució de les fugues, per la qual cosa, la Diputació del General, que partia d’experiències locals prèvies del segle XIV a Perpinyà i a la mateixa Barcelona, va crear la Guarda d’esclaus de la Diputació del General.[^20]
 
@@ -120,50 +121,50 @@ Els dots que aportaven les llibertes normalment eren reduïts: de 12 lliures;[^6
 [^22]: Antoni ALBACETE I GASCÓN, “Les Confraries de lliberts negres a la Corona Catalano-Aragonesa”, *Acta Historica et Archaeologica Mediaevalia*, 30 (2009), (en premsa).
 [^23]: ALBACETE, “Les formes d’accés…”.
 [^24]: ALBACETE, “Les formes d’accés…”.
-[^25]: En aquest document es diu que Pere Aymar va comprar l’esclava Antònia a Agneta, vídua d’Antoni de Vilatorta, per un període de sis anys, tal com consta en el instrument notarial amb data d’1 de maig de 1447 en poder del notari de Barcelona Nicolau de Mediona. A l’Arxiu Històric de Protocols de Barcelona no es conserva cap manual ni cap llibre d’aquest notari amb aquesta cronologia; per tant, no podem saber si passats aquest sis anys Antònia havia d’esdevenir lliure a través de la forma de venda *ad tempus* (Vegeu ALBACETE, “Les formes d’accés…”).
+[^25]: En aquest document es diu que Pere Aymar va comprar l’esclava Antònia a Agneta, vídua d’Antoni de Vilatorta, per un període de sis anys, tal com consta en el instrument notarial amb data d’1 de maig de 1447 en poder del notari de Barcelona Nicolau de Mediona. A l’Arxiu Històric de Protocols de Barcelona no es conserva cap manual ni cap llibre d’aquest notari amb aquesta cronologia; per tant, no podem saber si passats aquest sis anys Antònia havia d’esdevenir lliure a través de la forma de venda *<span lang="la">ad tempus</span>* (Vegeu ALBACETE, “Les formes d’accés…”).
 [^26]: *AHPB* (Arxiu Històric de Protocols de Barcelona), Vicenç Bofill, *Tercium decimum manuale comune*, 1448-1450.
 [^27]: Cristians originaris del Pròxim Orient.
-[^28]: En el document notarial no es diu que el futur marit fos també un antic esclau, però és molt probable, perquè tenia el mateix origen que la seva futura muller. Sí que sabem que Joan era ciutadà de Barcelona i que era garbellador de blat (*AHPB,* Bernat Pi, *Manual*, 1413 (3-VI-1413).
-[^29]: *AHPB*, Bernat Pi, *Manual*, 1419.
-[^30]: *AHPB*, Pere Bartomeu Valls, *Manual*, 1444-1451 (11-IV-1447).
+[^28]: En el document notarial no es diu que el futur marit fos també un antic esclau, però és molt probable, perquè tenia el mateix origen que la seva futura muller. Sí que sabem que Joan era ciutadà de Barcelona i que era garbellador de blat (*AHPB,* Bernat Pi, *<span lang="la">Manual</span>*, 1413 (3-VI-1413).
+[^29]: *AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1419.
+[^30]: *AHPB*, Pere Bartomeu Valls, *<span lang="la">Manual</span>*, 1444-1451 (11-IV-1447).
 [^31]: *AHPB*, Tomàs Rossell, *Primus liber comunis*, 1400-1401, citat per Teresa VINYOLES i VIDAL, “Integració de les llibertes a la societat barcelonina baixmedieval”, dins *De l’esclavitud a la llibertat…*, pàg. 598.
 [^32]: *AHPB*, Pere Pellisser, *Liber testamentorum*, 1395-1435, citat per Josep Maria MADURELL I MARIMON, “<span lang="sp">Los seguros de vida de esclavos en Barcelona (1453-1523). Documentos para su estudio</span>”, *<span lang="sp">Anuario de Historia del Derecho Español</span>*, 25 (1955), pàg. 128-130.
 [^33]: Antoni ALBACETE I GASCÓN, “Els lliberts a la Barcelona del segle XV”, *Estudis Històrics i Documents dels Arxius de Protocols*, XXVI (2008), pàg. 157.
 [^34]: El contracte d’alforria pel sistema de la talla estigué més estès durant el segle XIV i els primers anys del segle XV. A mesura que aquest tipus de via perdia importància en guanyava la del contracte d’alforria amb la condició de servei temporal (Vegeu ALBACETE, “Les formes d’accés…”).
 [^35]: Les fonts anomenen *<span lang="la">in statu libero</span>* els esclaus que estaven en procés de manumissió, un període de temps en el qual havien deixat d’ésser estrictament esclaus però encara no eren persones lliures amb els mateixos drets que la resta de la població.
 [^36]: ALBACETE, “Les formes d’accés…”.
-[^37]: Pere Çanglada va fer contracte d’alforria al seu esclau Joan, d’origen sard. Una de les clàusules era que no podia prendre muller sense el seu permís (*AHPB*, Bernat Pi, *Manual*, 1413-1414, 17-X-1413). L’esclau Basili, d’origen xarquès, propietat de Pere Riquer, hagué d’acceptar que durant els deu anys estipulats en el seu contracte d’alforria no podria prendre muller sense el permís de Pere (*AHPB*, Bernat Pi, *Manuale comune*, 1415-1416, 5-X-1415). Igualment Maria, xarquesa d’origen, que juntament amb la seva filla Joaneta iniciava el procés d’alliberament, tampoc podia contraure matrimoni sense el permís del seu amo, Guillem Colteller, al que havia de servir fins al dia de la mort d’aquest (*AHPB*, Bernat Pi, *Manual*, 1419-1420, 26-VI-1420).
+[^37]: Pere Çanglada va fer contracte d’alforria al seu esclau Joan, d’origen sard. Una de les clàusules era que no podia prendre muller sense el seu permís (*AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1413-1414, 17-X-1413). L’esclau Basili, d’origen xarquès, propietat de Pere Riquer, hagué d’acceptar que durant els deu anys estipulats en el seu contracte d’alforria no podria prendre muller sense el permís de Pere (*AHPB*, Bernat Pi, *Manuale comune*, 1415-1416, 5-X-1415). Igualment Maria, xarquesa d’origen, que juntament amb la seva filla Joaneta iniciava el procés d’alliberament, tampoc podia contraure matrimoni sense el permís del seu amo, Guillem Colteller, al que havia de servir fins al dia de la mort d’aquest (*AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1419-1420, 26-VI-1420).
 [^38]: El 14 de gener de 1359, el Consell de la ciutat disposà que els esclaus *<span lang="la">in statu libero</span>* havien de residir forçosament “fora los murs nous de la ciutat de Barchinona e fora la riera qui passa devant lo p ortal de Santa Anna”. Aquesta disposició fou modificada el 16 d’agost de 1359 per les queixes dels marits d’esclaves *<span lang="la">in statu libero</span>* (*AHCB*, 1B-I, *Llibre del Consell*, 19, f. 138v, citada per HERNANDO, *Els esclaus islàmics*…, pàg. 224).
 [^39]: Trobem referències a instruments de compravenda de grups familiars d’esclaus d’origen musulmà (HERNANDO, *Els esclaus islàmics*…, pàg. 62-65); o d’un matrimoni esclau, ambdós tàrtars (Joaquim MIRET I SANS, “<span lang="sp">La esclavitud en Cataluña en los últimos tiempos de la Edad Media</span>”, *<span lang="fr">Révue Hispanique</span>*, 41 (1917), pàg. 20).
 [^40]: Vegeu, sobre aquest tema, Andres Eliseo DE MAÑARICUA, *<span lang="sp">El matrimonio de los esclavos: estudio histórico-jurídico hasta la fijación de la disciplina en el Derecho Canónico</span>*, Roma, PUG, 1940.
 [^41]: *AHPB*, Bernat Nadal, *Quartus liber comunis*, 1392-1393, citat per Josep Maria MADURELL I MARIMON, “<span lang="sp">El pintor Lluís Borrassà. Su vida, su tiempo, sus seguidores y sus obras</span>”, *<span lang="sp">Anales y Boletín de los Museos de Arte de Barcelona Barcelona</span>*, VII (1949), pàg. 37.
-[^42]: *AHPB*, Joan de Pericolis, *Manuale decimum*, 1423-1425, citat per MADURELL, “El pintor Lluís…”, pàg. 39.
-[^43]: *AHPB*, Joan de Pericolis, *Manuale decimum*, 1423-1425, citat per MADURELL, “El pintor Lluís…”, pàg. 39.
+[^42]: *AHPB*, Joan de Pericolis, *<span lang="la">Manuale decimum</span>*, 1423-1425, citat per MADURELL, “El pintor Lluís…”, pàg. 39.
+[^43]: *AHPB*, Joan de Pericolis, *<span lang="la">Manuale decimum</span>*, 1423-1425, citat per MADURELL, “El pintor Lluís…”, pàg. 39.
 [^44]: MADURELL, “El pintor Lluís…”, pàg. 39.
-[^45]: *AHPB*, Pere Roig, *Manual*, 1427-1427, citat per MADURELL, “El pintor Lluís…”, pàg. 40.
+[^45]: *AHPB*, Pere Roig, *<span lang="la">Manual</span>*, 1427-1427, citat per MADURELL, “El pintor Lluís…”, pàg. 40.
 [^46]: HEERS, *Esclavos y sirvientes…*, pàg. 258-259 (la traducció és meva).
 [^47]: *AHPB*, Miquel Abella, *Manuale primum*, 1439-1446 (26-VI-1445).
-[^48]: *AHPB*, Marc Canyís, *Manuale*, 1427-1433 (22-XII-1427).
-[^49]: *AHPB*, Miquel Abella, *Manuale tercium*, 1449-1451 (8-VI-1449), citat a ALBACETE, *Les formes d’alliberament…*
-[^50]: *AHPB*, Bernat Pi, *Manual*, 1416 (26-II-1416).
-[^51]: *AHPB*, Pere Bartomeu Valls, *Manual*, 1444-1451 (1-VIII-1448), citat a ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49.
+[^48]: *AHPB*, Marc Canyís, *<span lang="la">Manuale</span>*, 1427-1433 (22-XII-1427).
+[^49]: *AHPB*, Miquel Abella, *<span lang="la">Manuale tercium</span>*, 1449-1451 (8-VI-1449), citat a ALBACETE, *Les formes d’alliberament…*
+[^50]: *AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1416 (26-II-1416).
+[^51]: *AHPB*, Pere Bartomeu Valls, *<span lang="la">Manual</span>*, 1444-1451 (1-VIII-1448), citat a ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49.
 [^52]: *AHCB*, Fons notarial, Sèrie IX, Capsa 16, Carpeta (1446-1459), citat per Fabianne PLAZOLLES GUILLEN, “Trayectorias sociales de los libertos musulmanes y negroafricanos en la Barcelona tardomedieval”, dins *De l’esclavitud a la llibertat…*, pàg. 629.
 [^53]: *ADB* (Arxiu Diocesà de Barcelona), procés 670 (1433), citat per VINYOLES, “Integració de les…”, pàg. 610.
 [^54]: *ACA* (Arxiu de la Corona d’Aragó), Batllia General, Processos, Béns Vagants, 1456-1-B, citat per PLAZOLLES, “Trayectorias sociales de…”, pàg. 619.
 [^55]: ALBACETE, “Els lliberts a…”, pàg. 184, doc. 52.
 [^56]: ALBACETE, “Els lliberts a…”, pàg. 186, doc. 59.
 [^57]: PLAZOLLES, “Trayectorias sociales de…”, pàg. 634-635.
-[^58]: *AHPB*, Bernat Pi, *Manual*, 1420-1421 (25-IX-1420).
-[^59]: *AHPB*, Bernat Pi, *Manual*, 1413 (3-VI-1413).
-[^60]: *AHPB*, Marc Canyís, *Manuale*, 1414-1422 (4-VII-1422).
+[^58]: *AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1420-1421 (25-IX-1420).
+[^59]: *AHPB*, Bernat Pi, *<span lang="la">Manual</span>*, 1413 (3-VI-1413).
+[^60]: *AHPB*, Marc Canyís, *<span lang="la">Manuale</span>*, 1414-1422 (4-VII-1422).
 [^61]: FERRER, “Esclaus i lliberts…”, pàg. 206.
 [^62]: FERRER, “Esclaus i lliberts…”, pàg. 209.
 [^63]: MADURELL, “El pintor Lluís…”, pàg. 39.
-[^64]: *AHPB*, Pere Bartomeu Valls, *Manual*, 1444-1451 (1-VIII-1448), citat per ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49).
-[^65]: *AHPB*, Miquel Abella, *Manuale tercium*, 1449-1451 (8-VI-1449).
-[^66]: *AHPB*, Marc Canyís, *Manuale*, 1427-1433 (22-XII-1427); *AHPB*, Antoni Brocard**,** *Manuale quinquagesimum tercium*, 1442-1443 (28-XII-1442); *AHPB*, Pere Bartomeu Valls**,** *Manual*, 1444-1451 (13-IV-1447).
+[^64]: *AHPB*, Pere Bartomeu Valls, *<span lang="la">Manual</span>*, 1444-1451 (1-VIII-1448), citat per ALBACETE, “Els lliberts a…”, pàg. 183, doc. 49).
+[^65]: *AHPB*, Miquel Abella, *<span lang="la">Manuale tercium</span>*, 1449-1451 (8-VI-1449).
+[^66]: *AHPB*, Marc Canyís, *<span lang="la">Manuale</span>*, 1427-1433 (22-XII-1427); *AHPB*, Antoni Brocard**,** *<span lang="la">Manuale quinquagesimum tercium</span>*, 1442-1443 (28-XII-1442); *AHPB*, Pere Bartomeu Valls**,** *<span lang="la">Manual</span>*, 1444-1451 (13-IV-1447).
 [^67]: *AHPB*, Bernat Pi, *Manua*l, 1416-1416 (26-II-1416).
 [^68]: *AHPB*, Miquel Abella, *Manuale primum*, 1439-1446 (26-VI-1445).
-[^69]: *AHPB*, Marc Canyís, *Manuale*, 1414-1422 (4-VI-1422); FERRER, “Esclaus i lliberts…”, pàg. 209 i 210.
+[^69]: *AHPB*, Marc Canyís, *<span lang="la">Manuale</span>*, 1414-1422 (4-VI-1422); FERRER, “Esclaus i lliberts…”, pàg. 209 i 210.
 [^70]: VINYOLES, “Integració de les…”, pàg. 609.
-[^71]: AHPB, Bernat Pi, *Manual*, 1413-1413 (3-VI-1413).
+[^71]: AHPB, Bernat Pi, *<span lang="la">Manual</span>*, 1413-1413 (3-VI-1413).
